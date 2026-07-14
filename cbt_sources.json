@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "description": "CBT・心理職向け研修ダイジェストの情報源定義。産業カウンセリング7：臨床3の比率で収集する。",
+    "ratio": "産業7：臨床3（6:4〜8:2 の範囲で許容）",
+    "created": "2026-07-14",
+    "note": "tier1/tier2 は WebFetch する固定ソース、tier3 は毎回の web_search クエリ。exclude_domains で不要ドメインを除外する。"
+  },
+
+  "tier1_seminars": [
+    {
+      "name": "中央労働災害防止協会（中災防）メンタルヘルス研修",
+      "url": "https://www.jisha.or.jp/seminar/health/"
+    },
+    {
+      "name": "厚生労働省 認知行動療法研修事業（うつ病CBTワークショップ等）",
+      "url": "https://mhlw-cbt-training.ncnp.go.jp/training.html"
+    },
+    {
+      "name": "日本産業カウンセラー協会 講座・研修",
+      "url": "https://counselor.or.jp/"
+    },
+    {
+      "name": "日本認知・行動療法学会 認知行動療法セミナー",
+      "url": "https://www.jabct.org/event/seminar.html"
+    },
+    {
+      "name": "日本認知療法・認知行動療法学会 大会・研修会情報",
+      "url": "https://jact.jp/conv/new/"
+    }
+  ],
+
+  "tier2_industrial": [
+    {
+      "name": "こころの耳（厚生労働省・働く人のメンタルヘルスポータル）",
+      "url": "https://kokoro.mhlw.go.jp/"
+    },
+    {
+      "name": "産業保健新聞（ドクタートラスト運営）",
+      "url": "https://ailesplus.com/news/"
+    },
+    {
+      "name": "メンタルセーフティー推進機構（ストレスチェック関連）",
+      "url": "https://www.stresscheckmark.jp/"
+    }
+  ],
+
+  "tier2_clinical": [
+    {
+      "name": "洗足ストレスコーピング・サポートオフィス",
+      "url": "https://www.stress-coping.com/"
+    },
+    {
+      "name": "Room Turn Blue（CBT実践情報）",
+      "url": "https://www.t-blue.org/news"
+    },
+    {
+      "name": "施設基準管理士カジハヤト（精神科・心理 診療報酬／施設基準）",
+      "url": "https://seishinkayoumuin.com/"
+    }
+  ],
+
+  "tier3_search_queries": [
+    { "query": "職場 メンタルヘルス 研修 セミナー 2026 募集" },
+    { "query": "ストレスチェック 義務化 50人未満 中小企業 対応" },
+    { "query": "認知行動療法 研修 ワークショップ 心理職 募集" },
+    { "query": "公認心理師 診療報酬 認知行動療法 2026 改定" },
+    { "query": "産業カウンセリング 職場 メンタルヘルス 最新動向" },
+    {
+      "query": "EAP 導入 事例 職場 メンタルヘルス",
+      "mode": "field_reports_unlisted"
+    },
+    {
+      "query": "健康経営 メンタルヘルス 従業員支援 取り組み",
+      "mode": "listed_corporate_pr"
+    }
+  ],
+
+  "exclude_domains": [
+    { "domain": "www.u-can.co.jp" },
+    { "domain": "www.foresight.jp" },
+    { "domain": "shikaku-square.com" },
+    { "domain": "www.lec-jp.com" },
+    {
+      "domain": "prtimes.jp",
+      "uncertain": true,
+      "company_names": []
+    }
+  ]
+}
