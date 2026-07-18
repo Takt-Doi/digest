@@ -1,25 +1,27 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
-    "https://www.jdla.org/news/20260710001/",
-    "https://guga.or.jp/generativeaiexam/",
-    "https://event.shoeisha.jp/devsumi/20260716",
-    "https://aid.connpass.com/event/392229/",
-    "https://www8.cao.go.jp/cstp/stmain/20260619ai.html",
-    "https://www8.cao.go.jp/cstp/ai/ai_hq/4kai/4kai.html"
+    "https://learn.microsoft.com/en-us/credentials/certifications/operationalizing-machine-learning-and-generative-ai-solutions/",
+    "https://aws.amazon.com/certification/certified-generative-ai-developer-professional/",
+    "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current",
+    "https://www.jdla.org/news/20260601001/",
+    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_kikan.html",
+    "https://prtimes.jp/main/html/rd/p/000000117.000155740.html",
+    "https://weblab.t.u-tokyo.ac.jp/news/2026-07-07/",
+    "https://aihackathon.jp/",
+    "https://it-shien.smrj.go.jp/schedule/",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/5kai.html"
   ],
   "previous_titles": [
-    "Microsoft、Azure認定資格を大規模再編（AI-200/AI-103/AI-300/SC-500）",
-    "Cloud and AI Security Engineer Associate（SC-500）ベータ提供開始",
-    "IPA、情報処理技術者試験の区分体系見直し（2027年度プロフェッショナルデジタルスキル試験）",
-    "JDLA「2026年 第5回 G検定」受験申込受付開始",
-    "生成AIパスポート8月試験、申込締切7/31",
-    "Developers Summit 2026 Summer／IT Strategy Summit 2026",
-    "AI駆動開発カンファレンス 2026夏",
-    "内閣府「人工知能基本計画（素案）」意見募集",
-    "第4回 人工知能戦略本部"
+    "Microsoft DP-100が廃止、後継のAI-300が提供開始",
+    "AWS「Generative AI Developer – Professional」が正式リリース",
+    "Google Cloud、認定資格の更新方法を刷新",
+    "JDLA「2026年 第2回 E資格」受験申込受付中",
+    "IPA、CBT移行後の高度試験実施スケジュールを公表",
+    "AI Agent Day 2026 Summer",
+    "東京大学松尾・岩澤研究室「深層学習/Deep Learning基礎講座 2026 Autumn」募集開始",
+    "AI HACKATHON 2026",
+    "デジタル化・AI導入補助金2026、第3次締切は7/21",
+    "内閣府、「人工知能基本計画」第2期を閣議決定"
   ]
 }
