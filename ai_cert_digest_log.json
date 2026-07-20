@@ -1,21 +1,27 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
-    "https://www.jdla.org/news/20260710001/",
-    "https://guga.or.jp/2026-06-01-1045",
-    "https://aid.connpass.com/event/392229/",
-    "https://blogs.nvidia.co.jp/blog/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure/"
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-cloud-developer-associate-certification/4494116",
+    "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/",
+    "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current",
+    "https://www.sakura.ad.jp/ai-certification/news/certification-exam-renewal-2026-07/",
+    "https://www.jdla.org/news/20260601001/",
+    "https://jdla.connpass.com/event/399373/",
+    "https://jdla.connpass.com/event/399247/",
+    "https://www.kantei.go.jp/jp/105/actions/202607/10jinkoutchinou.html",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/d01-1.html"
   ],
   "previous_titles": [
-    "Microsoft Azure Developer Associate（AZ-204）廃止、後継はAI-200",
-    "Microsoft Azure Security Engineer Associate（AZ-500）廃止、後継はSC-500",
-    "AWS「Machine Learning Engineer – Associate」がMLA-C02へ刷新",
-    "JDLA「2026年 第5回 G検定」受験申込開始",
-    "GUGA「2026年8月 生成AIパスポート試験」受験申込",
-    "AI駆動開発カンファレンス 2026夏",
-    "NVIDIA・日本政府・産業界が国家規模のAIインフラを始動"
+    "生成AIアドバイザー認定試験（第3回）申込締切7/23",
+    "Microsoft Azure新資格「AI-200」2026年7月GA予定",
+    "Microsoft Azure AI Fundamentals後継「AI-901」ベータ提供中",
+    "Google Cloud認定資格の更新方法刷新（スキルバッジで自動更新）",
+    "さくらのAI検定 教育コンテンツ改訂（202606版）",
+    "JDLA「2026年 第2回 E資格」受験申込受付中",
+    "JDLA主催「CVPR2026技術報告会」7/29開催",
+    "CDLE主催「ウェルカムイベント 2026年8月」8/6開催",
+    "内閣府AI戦略本部 第2期AI基本計画案を決定（7/10）",
+    "人材開発支援助成金 事業展開等リスキリング支援コース 令和8年度が最終年度見込み"
   ]
 }
