@@ -1,19 +1,39 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "previous_urls": [
-    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
-    "https://learn.microsoft.com/ja-jp/credentials/certifications/azure-developer/",
-    "https://learn.microsoft.com/ja-jp/credentials/certifications/azure-security-engineer/",
-    "https://aihackathon.jp/",
-    "https://forest.watch.impress.co.jp/docs/news/2118859.html",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf"
+    "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current",
+    "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
+    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+    "https://www.jdla.org/news/20260710001/",
+    "https://www.jdla.org/news/20260601001/",
+    "https://www.waca.or.jp/news/94932/",
+    "https://prtimes.jp/main/html/rd/p/000006683.000052467.html",
+    "https://weblab.t.u-tokyo.ac.jp/news/2026-07-07/",
+    "https://weblab.t.u-tokyo.ac.jp/lecture/course-list/ai-entrepreneurship/",
+    "https://weblab.t.u-tokyo.ac.jp/news/2026-0706/",
+    "https://aid.connpass.com/event/392229/",
+    "https://aisi.go.jp/output/output_information/260707/",
+    "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000182/",
+    "https://www.meti.go.jp/press/2026/06/20260630005/20260630005.html",
+    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf"
   ],
   "previous_titles": [
-    "情報処理技術者試験・高度試験、2027年度から新体系へ大刷新（IPA）",
-    "Microsoft「AZ-204」2026年7月31日で退役、後継はAI-200",
-    "Microsoft「AZ-500」2026年8月31日で退役、後継はSC-500",
-    "「AI HACKATHON 2026」8月8日～16日開催、賞金総額100万円",
-    "「全日本AIハッカソン2026」予選6thラウンド・オンライン大会の参加受付開始",
-    "第2期「人工知能基本計画」を7月14日に閣議決定、「バーティカルAI」19分野に官民集中投資"
+    "Google Cloud、認定資格の更新方法を刷新",
+    "Microsoft「AI-900」退役、後継はAI-901",
+    "Microsoft「AI-102」退役、後継はAI-103",
+    "AWS「Machine Learning Engineer – Associate」改訂版MLA-C02を発表",
+    "JDLA「G検定 2026年第5回」受験申込開始",
+    "JDLA「E資格 2026年第2回」受験申込受付中・改訂シラバス初適用",
+    "生成AIパスポート「2026年8月試験」申込締切7月31日",
+    "都知事杯オープンデータ・ハッカソン2026、参加申込締切7月27日",
+    "東大松尾・岩澤研究室「深層学習基礎講座2026 Autumn」募集開始",
+    "東大松尾・岩澤研究室「AI起業サマープログラム」募集",
+    "高専DCON「AI実践ブートキャンプ」募集",
+    "「AI駆動開発カンファレンス2026夏」開催",
+    "AISI「AIセーフティに関する評価観点ガイド」第1.20版公開",
+    "デジタル庁、国産AIを「さくらのクラウド」で稼働開始",
+    "経産省・NEDO、フィジカルAI向け基盤モデル開発事業の実施者選定",
+    "デジタル庁、生成AI調達ガイドライン第2.0版策定"
   ]
 }
