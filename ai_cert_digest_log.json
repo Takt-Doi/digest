@@ -1,27 +1,22 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "previous_urls": [
-    "https://guga.or.jp/generativeaiexam/",
-    "https://www.meti.go.jp/press/2026/06/20260602002/20260602002.html",
-    "https://learn.microsoft.com/ja-jp/credentials/certifications/azure-ai-engineer/",
-    "https://www.jdla.org/news/20260601001/",
-    "https://www.aifestival.jp/news/japanaihack2026-02",
-    "https://forest.watch.impress.co.jp/docs/news/2097661.html",
-    "https://www.ipa.go.jp/shiken/syllabus/henkou/2025/20260331.html",
-    "https://www8.cao.go.jp/cstp/stmain/20260619ai.html",
-    "https://it-shien.smrj.go.jp/schedule/",
-    "https://prtimes.jp/main/html/rd/p/000000011.000172808.html"
+    "https://learn.microsoft.com/ja-jp/credentials/certifications/exams/az-204/",
+    "https://learn.microsoft.com/ja-jp/credentials/certifications/resources/study-guides/ai-200",
+    "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current",
+    "https://guga.or.jp/2026-07-17-1100",
+    "https://forest.watch.impress.co.jp/docs/news/2118859.html",
+    "https://aihackathon.jp/",
+    "https://sobani.co.jp/archives/11219",
+    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf"
   ],
   "previous_titles": [
-    "生成AIパスポート 2026年8月試験、申込締切は7月31日23:59",
-    "経済産業省「マナビDX Quest」2026年度、7月27日から順次開講",
-    "Microsoft、Azure AI Engineer Associate認定(AI-102)を6月30日付で廃止・後継AI-103始動",
-    "JDLA「2026年 第2回 E資格」、8月28〜30日に開催",
-    "「全日本AIハッカソン2026」予選2ndラウンドを実施",
-    "「AIフェスティバル2026」、11月7日にベルサール渋谷ファーストで開催決定",
-    "IPA、応用情報技術者試験・高度試験8区分を廃止し「プロフェッショナルデジタルスキル試験」等3区分に再編",
-    "内閣府、第4回AI戦略本部を開催し「人工知能基本計画（素案）」への意見募集を開始",
-    "「デジタル化・AI導入補助金2026」、複数者連携デジタル化・AI導入枠の締切は8月25日",
-    "新資格「AI業務支援士」、養成研修の申込者が80名を突破"
+    "Microsoft、Azure Developer Associate認定(AZ-204)を7月31日に廃止、後継AI-200へ移行",
+    "Google Cloud、認定資格の再認定方法を刷新しGoogle Skillsでも更新可能に",
+    "生成AIパスポート、6月試験結果を発表・累計受験者11万人突破",
+    "「全日本AIハッカソン2026」予選6thラウンド(オンライン最終予選)、8月22日開催",
+    "「AI HACKATHON 2026」、8月8日〜16日開催",
+    "「EC＆SNS＆AI HACK 2026」、8月19日・20日開催",
+    "内閣府、「人工知能基本計画(第Ⅱ期)」を7月14日に閣議決定"
   ]
 }
