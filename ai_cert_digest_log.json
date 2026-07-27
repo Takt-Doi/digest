@@ -1,22 +1,23 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "previous_urls": [
-    "https://learn.microsoft.com/ja-jp/credentials/certifications/exams/az-204/",
-    "https://learn.microsoft.com/ja-jp/credentials/certifications/resources/study-guides/ai-200",
-    "https://cloud.google.com/blog/topics/training-certifications/new-ways-keep-google-cloud-certifications-current",
-    "https://guga.or.jp/2026-07-17-1100",
-    "https://forest.watch.impress.co.jp/docs/news/2118859.html",
-    "https://aihackathon.jp/",
-    "https://sobani.co.jp/archives/11219",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf"
+    "https://guga.or.jp/generativeaiexam/",
+    "https://learn.microsoft.com/ja-jp/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://www.jdla.org/news/20260710001/",
+    "https://www.jdla.org/news/20260601001/",
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://www.aifestival.jp/hackathon",
+    "https://aid.connpass.com/event/392229/",
+    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/f8e1c3b8/20260612_resources_standard_guidelines_guideline_03.pdf"
   ],
   "previous_titles": [
-    "Microsoft、Azure Developer Associate認定(AZ-204)を7月31日に廃止、後継AI-200へ移行",
-    "Google Cloud、認定資格の再認定方法を刷新しGoogle Skillsでも更新可能に",
-    "生成AIパスポート、6月試験結果を発表・累計受験者11万人突破",
-    "「全日本AIハッカソン2026」予選6thラウンド(オンライン最終予選)、8月22日開催",
-    "「AI HACKATHON 2026」、8月8日〜16日開催",
-    "「EC＆SNS＆AI HACK 2026」、8月19日・20日開催",
-    "内閣府、「人工知能基本計画(第Ⅱ期)」を7月14日に閣議決定"
+    "生成AIパスポート2026年8月試験、申込締切は7月31日",
+    "Microsoft、Azureセキュリティ資格AZ-500を8月31日に廃止、後継SC-500へ移行",
+    "「2026年 第5回 G検定」受験申込開始",
+    "「2026年 第2回 E資格」受験申込開始",
+    "生成AIアドバイザー認定試験、第3回から2級の出題範囲を1級と統一",
+    "全日本AIハッカソン2026、決勝戦は11月7日にベルサール渋谷ファーストで開催",
+    "AI駆動開発カンファレンス2026夏、7月30日・31日開催",
+    "デジタル庁、行政向け生成AIの調達・利活用に係るガイドラインを2.0版に改定"
   ]
 }
