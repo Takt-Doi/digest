@@ -1,23 +1,27 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "previous_urls": [
-    "https://guga.or.jp/generativeaiexam/",
-    "https://learn.microsoft.com/ja-jp/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://www.jdla.org/news/20260710001/",
-    "https://www.jdla.org/news/20260601001/",
-    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
-    "https://www.aifestival.jp/hackathon",
-    "https://aid.connpass.com/event/392229/",
-    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/f8e1c3b8/20260612_resources_standard_guidelines_guideline_03.pdf"
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://cloud.google.com/blog/ja/topics/training-certifications/new-ways-keep-google-cloud-certifications-current?hl=ja",
+    "https://www.ipa.go.jp/shiken/syllabus/henkou/2025/20260331.html",
+    "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/03/04/1968223791/",
+    "https://guga.or.jp/2026-07-17-1100",
+    "https://aihackathon.jp/",
+    "https://forest.watch.impress.co.jp/docs/news/2118859.html",
+    "https://jdla.connpass.com/event/399247/",
+    "https://www.kantei.go.jp/jp/105/actions/202607/10jinkoutchinou.html",
+    "https://it-shien.smrj.go.jp/schedule/"
   ],
   "previous_titles": [
-    "生成AIパスポート2026年8月試験、申込締切は7月31日",
-    "Microsoft、Azureセキュリティ資格AZ-500を8月31日に廃止、後継SC-500へ移行",
-    "「2026年 第5回 G検定」受験申込開始",
-    "「2026年 第2回 E資格」受験申込開始",
-    "生成AIアドバイザー認定試験、第3回から2級の出題範囲を1級と統一",
-    "全日本AIハッカソン2026、決勝戦は11月7日にベルサール渋谷ファーストで開催",
-    "AI駆動開発カンファレンス2026夏、7月30日・31日開催",
-    "デジタル庁、行政向け生成AIの調達・利活用に係るガイドラインを2.0版に改定"
+    "Microsoft、Azure開発者資格AZ-204を7月31日に廃止、後継AI-200（Azure AI Cloud Developer Associate）へ移行",
+    "Google Cloud、認定資格の再認定方法を刷新",
+    "IPA情報処理技術者試験、2027年度に大規模再編・2026年度からCBT化",
+    "さくらインターネット「さくらのAI検定」、2026年夏に初回試験実施へ",
+    "生成AIパスポート、2026年6月試験で累計受験者11万人突破",
+    "AI HACK 2026、8月8日〜16日開催のAIハッカソン（賞金総額100万円）",
+    "全日本AIハッカソン2026、最終予選「6thラウンド」が8月22日開催・参加受付開始",
+    "【CDLE主催】ウェルカムイベント 2026年8月",
+    "内閣府、第5回人工知能戦略本部でAI基本計画（第2期）案を決定",
+    "中小企業庁「デジタル化・AI導入補助金2026」、複数者連携枠の締切は8月25日"
   ]
 }
