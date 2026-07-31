@@ -1,27 +1,29 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "previous_urls": [
-    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-cloud-developer-associate-certification/4494116",
-    "https://cloud.watch.impress.co.jp/docs/news/2126692.html",
-    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cloud-and-ai-security-engineer-associate-certification/4494117",
-    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_yotei.html",
-    "https://aihackathon.jp/",
-    "https://www.jdla.org/events/20260618006/",
-    "https://www.aifestival.jp/hackathon",
-    "https://www.meti.go.jp/press/2026/07/20260727001.html",
-    "https://www.ipa.go.jp/pressrelease/2026/press20260723.html",
-    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/5kai.html"
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/",
+    "https://guga.or.jp/generativeaiexam/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://www.jdla.org/news/20260601001/",
+    "https://www.jdla.org/news/20260710001/",
+    "https://cloud.google.com/blog/ja/topics/training-certifications/new-ways-keep-google-cloud-certifications-current?hl=ja",
+    "https://aws.amazon.com/blogs/training-and-certification/big-news-aws-expands-ai-certification-portfolio-and-updates-security-certification/",
+    "https://www.kyoiku.metro.tokyo.lg.jp/information/press/2026/07/2026070702",
+    "https://techplay.jp/event/996788",
+    "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai7/shiryou7.pdf",
+    "https://www.jimin.jp/news/policy/213867.html"
   ],
   "previous_titles": [
-    "Microsoft、Azure認定資格「AZ-204」を7/31に廃止、後継「AI-200」（Azure AI Cloud Developer Associate）へ移行",
-    "GUGA、生成AIパスポート2026年6月試験の結果発表（受験21,752名・累計受験者数11万名突破）",
-    "Microsoft、「SC-500」（Cloud and AI Security Engineer Associate）が正式リリース",
-    "IPA、応用情報技術者試験など主要試験は2026年度限りで終了、2027年度からCBT方式の新試験制度へ",
-    "AIエージェント開発ハッカソン「AI HACK 2026」開催（8/8〜16・賞金総額100万円）",
-    "経済産業省主催「マナビDXクエスト」開催（2026年7月27日〜2027年1月31日）",
-    "「全日本AIハッカソン2026」第6ラウンド（オンライン予選・8/22開催）",
-    "特許庁、AI活用の基本方針「JPO AIビジョン」を策定",
-    "AISI、「AIロボティクスに関するセーフティ評価観点ガイド」を公開",
-    "内閣府「人工知能戦略本部」第5回会合、第2期AI基本計画案を決定（7/14閣議決定）"
+    "Microsoft、Azure認定資格「AZ-204」を本日7/31付で廃止、後継「AI-200」（Azure AI Cloud Developer Associate）が正式GA",
+    "GUGA、生成AIパスポート2026年8月試験の受験申込を本日7/31 23:59に締切",
+    "AI-200（Azure AI Cloud Developer Associate）正式GA、AZ-204後継としてベクトルDB・イベント駆動AI統合を出題",
+    "JDLA「2026年 第2回 E資格」受験申込開始（8/28〜30開催・先着順）",
+    "JDLA「2026年 第5回 G検定」受験申込開始（9/5開催オンライン、第4回結果は9,241名受験・7,677名合格）",
+    "Google Cloud認定資格の再認定方法を刷新、学習コース/スキルバッジ完了で1年自動延長",
+    "AWS「Certified Generative AI Developer – Professional」認定、登録受付中",
+    "都立学校「AI Lab」ハッカソンプログラム募集開始（東京都教育委員会・7/7〜8/14）",
+    "新講座「非エンジニアのためのClaude Code活用超入門」開講（TECH PLAY掲載）",
+    "「経済財政運営と改革の基本方針2026」（骨太方針2026）閣議決定、学校向けAI指針改定等を明記",
+    "自民党、「AI政策推進機能の抜本的強化に係る緊急提言」を提出（7/24）"
   ]
 }
