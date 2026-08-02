@@ -1,23 +1,17 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "previous_urls": [
-    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cloud-and-ai-security-engineer-associate-certification/4494117",
-    "https://guga.or.jp/2026-07-17-1100",
-    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
-    "https://www.nextech-week.jp/aineo/ja-jp/about.html",
-    "https://aihackathon.jp/",
-    "https://tech-lab.connpass.com/event/400217/",
-    "https://www.meti.go.jp/press/2026/07/20260727001.html",
-    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/5kai.html"
+    "https://sustainablejapan.jp/2026/07/21/eu-ai-act-5/128336",
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://www.jdla.org/news/20260710001/",
+    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_yotei.html",
+    "https://aid.connpass.com/event/401330/"
   ],
   "previous_titles": [
-    "Microsoft「AZ-500」廃止・後継「SC-500」正式GA（2026年8月31日廃止、7月28日GA）",
-    "GUGA「生成AIパスポート」6月試験結果発表、累計受験者11万名突破（合格率79.90%）",
-    "AWS「Machine Learning Engineer – Associate」改定版MLA-C02発表、生成AI・エージェンティックAI追加",
-    "「AI・人工知能EXPO NEO 2026」東京国際フォーラムで初開催（8/5・8/6）",
-    "生成AIハッカソン「AI HACK 2026」開催（8/8〜8/16、賞金総額100万円）",
-    "ウェビナー「AIエージェントを作る・統制する・組み込む」開催（8/5）",
-    "特許庁、AI活用の基本方針「JPO AIビジョン」を策定（7/27）",
-    "第5回人工知能戦略本部を開催、AI法に基づく基本計画案を議論（7/10）"
+    "EU AI法「透明性義務」が本日8/2発効（チャットボット開示・AI生成物への機械可読マーク義務化）",
+    "生成AIアドバイザー認定試験、8/30の第3回試験から2級の出題範囲を1級と統一",
+    "JDLA「2026年 第5回 G検定」9/4〜6日開催、申込は受験日3日前まで受付中",
+    "IPA、情報処理安全確保支援士・応用情報技術者試験など令和8年度からCBT方式へ移行",
+    "AI駆動開発コミュニティ主催「AIDDもくもく会」が8/20開催"
   ]
 }
