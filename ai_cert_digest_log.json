@@ -1,27 +1,25 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "previous_urls": [
-    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
-    "https://kn.itmedia.co.jp/kn/articles/2604/24/news045.html",
-    "https://aws.amazon.com/certification/certified-generative-ai-developer-professional/",
-    "https://www.jdla.org/news/20260601001/",
-    "https://guga.or.jp/generativeaiexam/",
-    "https://aihackathon.jp/",
-    "https://findy.connpass.com/event/400570/",
-    "https://forest.watch.impress.co.jp/docs/news/2118859.html",
-    "https://www.kantei.go.jp/jp/105/actions/202607/10jinkoutchinou.html",
-    "https://mediamixi.jp/news/6867/"
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
+    "https://kogelog.com/20260701-01/",
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://guga.or.jp/2026-08-03-1100",
+    "https://www.mystylecareerlab.jp/post/august-schedule",
+    "https://tech-lab.connpass.com/event/400217/",
+    "https://ict-enews.net/2026/08/03kddi-8/",
+    "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
+    "https://www.nikkei.com/article/DGXZQOUA082U60Y6A700C2000000/"
   ],
   "previous_titles": [
-    "Microsoft認定資格「2026年大改定」―AZ-500は8/31廃止・後継SC-500へ、AZ-204は7/31廃止済みでAI-200へ移行",
-    "情報処理技術者試験、2027年度に「データ・AI領域」含む新体系へ再編へ（プロフェッショナルデジタルスキル試験仮称）",
-    "AWS「Generative AI Developer – Professional」、Bedrock AgentCore対応に更新",
-    "JDLA「2026年 第2回 E資格」申込受付中、改定シラバスを初適用（8/28〜30試験）",
-    "生成AIパスポート、10月試験の申込受付中（8/1〜9/30申込）",
-    "AI HACK 2026（東京開催、8/8〜16、賞金総額100万円）",
-    "「著者陣に聞く！Claude Code最新情報」Findy主催イベント（8/4開催）",
-    "「全日本AIハッカソン2026」最終予選6thラウンド（8/22・オンライン）",
-    "AI基本計画（第Ⅱ期）「日本AX」を7/14に閣議決定（第5回人工知能戦略本部）",
-    "デジタル庁、生成AI調達・利活用ガイドライン第2.0版を策定（令和8年9月1日施行予定）"
+    "経済産業省、AIとロボット政策を一元化する「AI産業課」を新設（8/5政令施行）",
+    "Microsoft認定資格、AI-102・DP-100が廃止済み。後継AI-103・AI-300へ移行",
+    "生成AIアドバイザー認定試験、第3回（8/30）から2級出題範囲を1級と統一",
+    "生成AIパスポート、団体受験の申込・支払い方法をリニューアル",
+    "AI BLOOM JAPAN、8月の学習プログラム全日程を公開",
+    "「AIエージェントを作る・統制する・組み込む」オンラインセミナー（8/5開催）",
+    "KDDI×エリクソン、小学生向け「遠隔AIクリエイター教室」を9月開催",
+    "デジタル庁、熊本地震の被災自治体へガバメントAI「源内」を緊急提供",
+    "自民党、政府のAI政策部局の体制強化（30→80人）を提言"
   ]
 }
