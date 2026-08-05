@@ -1,25 +1,27 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "previous_urls": [
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
-    "https://kogelog.com/20260701-01/",
-    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
-    "https://guga.or.jp/2026-08-03-1100",
-    "https://www.mystylecareerlab.jp/post/august-schedule",
-    "https://tech-lab.connpass.com/event/400217/",
-    "https://ict-enews.net/2026/08/03kddi-8/",
-    "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
-    "https://www.nikkei.com/article/DGXZQOUA082U60Y6A700C2000000/"
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/",
+    "https://aws.amazon.com/blogs/training-and-certification/aws-certification-retirements-and-launches/",
+    "https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260630.html",
+    "https://www.jdla.org/news/20260710001/",
+    "https://www.waca.or.jp/news/95682/",
+    "https://ledge.ai/articles/openai_jobs_platform_certifications_2026",
+    "https://aihackathon.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000186956.html",
+    "https://www.aifestival.jp/hackathon",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/5kai.html"
   ],
   "previous_titles": [
-    "経済産業省、AIとロボット政策を一元化する「AI産業課」を新設（8/5政令施行）",
-    "Microsoft認定資格、AI-102・DP-100が廃止済み。後継AI-103・AI-300へ移行",
-    "生成AIアドバイザー認定試験、第3回（8/30）から2級出題範囲を1級と統一",
-    "生成AIパスポート、団体受験の申込・支払い方法をリニューアル",
-    "AI BLOOM JAPAN、8月の学習プログラム全日程を公開",
-    "「AIエージェントを作る・統制する・組み込む」オンラインセミナー（8/5開催）",
-    "KDDI×エリクソン、小学生向け「遠隔AIクリエイター教室」を9月開催",
-    "デジタル庁、熊本地震の被災自治体へガバメントAI「源内」を緊急提供",
-    "自民党、政府のAI政策部局の体制強化（30→80人）を提言"
+    "Microsoft認定資格「AZ-500」、8月31日で廃止・後継SC-500へ移行",
+    "AWS「Advanced Networking – Specialty」認定、8月25日で廃止・後継試験なし",
+    "IPA、2027年新設「プロフェッショナルデジタルスキル試験」のシラバス案を公表",
+    "G検定、2026年第5回（9/4~9/6開催）の受験申込を受付中",
+    "生成AIパスポート10月試験、団体受験の申込受付を開始（締切9/30）",
+    "OpenAI、ChatGPT内で完結する「AIスキル認定」と求人プラットフォームを2026年提供へ",
+    "AI HACK 2026、東京で8/8~16開催（観覧募集中）",
+    "HIROSHIMA AI SUMMER HACKATHON、広島の学生向けに8/1~31開催",
+    "全日本AIハッカソン2026、6thラウンド（オンライン）を8/22開催",
+    "内閣府、人工知能戦略本部 第5回会合を開催（AI基本計画・分野別戦略を審議）"
   ]
 }
