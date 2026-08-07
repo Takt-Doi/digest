@@ -1,23 +1,25 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
-    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
-    "https://www.jdla.org/news/20260601001/",
-    "https://ai.watch.impress.co.jp/docs/news/2130049.html",
-    "https://aiau.connpass.com/event/401500/",
-    "https://streamline.connpass.com/event/402947/",
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1"
+    "https://www.jdla.org/news/20260804001/",
+    "https://jdla.connpass.com/event/402527/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
+    "https://www.jdla.org/news/20260710001/",
+    "https://guga.or.jp/generativeaiexam/",
+    "https://cloud.google.com/blog/ja/topics/training-certifications/new-ways-keep-google-cloud-certifications-current?hl=ja",
+    "https://forest.watch.impress.co.jp/docs/news/2118859.html",
+    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf"
   ],
   "previous_titles": [
-    "Microsoft認定資格「AZ-204」廃止、後継「AI-200」提供開始",
-    "Microsoft認定資格「AI-102」廃止、後継「AI-103」がベータ提供",
-    "生成AIアドバイザー認定試験、2級の出題範囲を1級と統一（8/30の第3回試験より）",
-    "JDLA「2026年第2回E資格」受験申込を受付中（8/28~30開催）",
-    "GUGA、生成AIパスポート団体受験の申込・支払方法をリニューアル",
-    "AIAU「Craft Day」、8/14~16開催（個人参加可・無料）",
-    "「AIにPower Platformを操作させてみる」セミナー、8/11オンライン開催",
-    "経済産業省、AI・ロボット政策を統合する「AI産業課」設置（8月5日施行）"
+    "JDLA「C認証（AI Governance Core Certification）」一般申請受付開始（8/4より運用開始）",
+    "JDLA「C認証」オンライン説明会（8/18開催）",
+    "Microsoft認定資格「AZ-500」廃止、後継「SC-500」提供開始",
+    "IPA、2027年度に情報処理技術者試験を再編し「データ・AI領域」新設へ",
+    "JDLA「2026年 第5回 G検定」受験申込開始（9/5実施）",
+    "GUGA「2026年10月 生成AIパスポート試験」申込受付中",
+    "Google Cloud、認定資格の再認定方法を刷新",
+    "「全日本AIハッカソン 2026」最終予選・6thラウンド（8/22オンライン開催）",
+    "政府、第Ⅱ期「人工知能基本計画」を閣議決定"
   ]
 }
