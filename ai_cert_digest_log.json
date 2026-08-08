@@ -1,25 +1,31 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "previous_urls": [
-    "https://www.jdla.org/news/20260804001/",
-    "https://jdla.connpass.com/event/402527/",
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
-    "https://www.jdla.org/news/20260710001/",
-    "https://guga.or.jp/generativeaiexam/",
-    "https://cloud.google.com/blog/ja/topics/training-certifications/new-ways-keep-google-cloud-certifications-current?hl=ja",
-    "https://forest.watch.impress.co.jp/docs/news/2118859.html",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf"
+    "https://cloud.google.com/learn/certification/cloud-digital-leader",
+    "https://www.jdla.org/news/20260601001/",
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://www.sikaku.gr.jp/ai/",
+    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+    "https://cloud.google.com/blog/topics/training-certifications/free-gemini-enterrprise-training",
+    "https://edu.watch.impress.co.jp/docs/news/2124085.html",
+    "https://mlops.connpass.com/event/401457/",
+    "https://prtimes.jp/main/html/rd/p/000000793.000053344.html",
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
+    "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/d01-1_00011.html",
+    "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/"
   ],
   "previous_titles": [
-    "JDLA「C認証（AI Governance Core Certification）」一般申請受付開始（8/4より運用開始）",
-    "JDLA「C認証」オンライン説明会（8/18開催）",
-    "Microsoft認定資格「AZ-500」廃止、後継「SC-500」提供開始",
-    "IPA、2027年度に情報処理技術者試験を再編し「データ・AI領域」新設へ",
-    "JDLA「2026年 第5回 G検定」受験申込開始（9/5実施）",
-    "GUGA「2026年10月 生成AIパスポート試験」申込受付中",
-    "Google Cloud、認定資格の再認定方法を刷新",
-    "「全日本AIハッカソン 2026」最終予選・6thラウンド（8/22オンライン開催）",
-    "政府、第Ⅱ期「人工知能基本計画」を閣議決定"
+    "Google Cloud「Cloud Digital Leader」現行試験終了(8/11)・新試験版へ移行(8/12)",
+    "JDLA「2026年 第2回 E資格」受験申込受付中（8/28〜30実施）",
+    "生成AIアドバイザー認定試験、第3回(8/30)から2級の出題範囲を1級と統一",
+    "サーティファイ「AI検定」、11/8の公開試験日程を追加",
+    "AWS、機械学習エンジニア資格を「MLA-C02」に更新へ（ベータ登録9/1〜）",
+    "Google Cloud「GEAR」無料トレーニング拡充・賞金18万ドルハッカソン開催",
+    "教員向け無料セミナー「デザインプロンプト講座」（8/8開催）",
+    "第67回 MLOps/LLMOps/AgentOps勉強会（8/11開催）",
+    "「AI博覧会 Summer 2026」新宿住友ビルで8/26・27開催",
+    "経済産業省、AI・ロボット政策を一元化する「AI産業課」設置（8/5施行）",
+    "厚生労働省、リスキリング助成金のAI・DX・GX研修要件を厳格化（8/3施行）",
+    "デジタル庁、ガバメントAI「源内」を熊本地震被災自治体へ緊急提供"
   ]
 }
