@@ -1,27 +1,19 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "previous_urls": [
-    "https://www.jdla.org/news/20260601001/",
-    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/",
-    "https://guga.or.jp/2026-08-03-1100",
-    "https://www.jdla.org/news/20260710001/",
-    "https://aihackathon.jp/",
-    "https://forest.watch.impress.co.jp/docs/news/2118859.html",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
-    "https://www.itmedia.co.jp/news/article/2608/04/2000000366/"
+    "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/",
+    "https://guga.or.jp/2026-08-05_1300",
+    "https://aiau.connpass.com/event/401500/",
+    "https://devin.ai/devincon26",
+    "https://innovatopia.jp/ai/ai-news/115265/",
+    "https://ledge.ai/articles/digital_agency_gennai_domestic_llm_selection_government_trial"
   ],
   "previous_titles": [
-    "JDLA、「E資格 2026年 第2回」テストセンター受験の入金期限は8月14日（金）",
-    "IPA、応用情報技術者試験・高度試験(9区分)を2027年度に「プロフェッショナルデジタルスキル試験」へ統合再編（データ・AI領域新設）",
-    "Microsoft、Azure Developer Associate(AZ-204)を7/31付で廃止、後継はAzure AI Cloud Developer Associate(AI-200)",
-    "Microsoft、Azure Security Engineer Associate(AZ-500)を8/31付で廃止予定、後継はCloud and AI Security Engineer Associate(SC-500)",
-    "GUGA、生成AIパスポートの団体受験の申込・支払方法を8月1日にリニューアル（10月試験から適用）",
-    "JDLA、「2026年 第5回 G検定（ジェネラリスト検定）」受験申込を開始（会場試験9/4〜9/6）",
-    "AI HACK 2026、東京で開催中のAIハッカソン（発表会は8/16、観覧募集中）",
-    "サードウェーブ、「全日本AIハッカソン2026」最終予選6thラウンドをオンラインで8/22開催",
-    "内閣府、人工知能基本計画（第Ⅱ期）「日本AX、より強く、より豊かに」を7月14日に閣議決定",
-    "EU、AI法の透明性義務（第50条）の適用を8月2日に開始。生成AIコンテンツへのラベル表示等を義務化"
+    "Microsoft、Azure AI基礎資格 AI-900・AI-102が6月30日付で退役、後継AI-901・AI-103が始動",
+    "GUGA、令和8年熊本地震に伴う「2026年8月 生成AIパスポート試験」特別措置（キャンセル・全額返金）を発表",
+    "AIAU Craft Day、AIコーディングエージェントで3日間プロダクトをローンチするオフラインハッカソンを六本木で開催（8/14〜16）",
+    "DevinCon、AI駆動開発カンファレンスを8月26日に浜松町で開催",
+    "経済産業省、AI政策とロボット政策を一元化する新組織「AI産業課」を8月5日付で設置",
+    "デジタル庁、政府生成AI基盤「源内」で国産LLM7モデルの試用を8月から開始"
   ]
 }
