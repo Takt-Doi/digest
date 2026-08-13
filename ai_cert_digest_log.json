@@ -1,19 +1,31 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/",
-    "https://guga.or.jp/2026-08-05_1300",
-    "https://aiau.connpass.com/event/401500/",
-    "https://devin.ai/devincon26",
-    "https://innovatopia.jp/ai/ai-news/115265/",
-    "https://ledge.ai/articles/digital_agency_gennai_domestic_llm_selection_government_trial"
+    "https://cloud.google.com/blog/ja/topics/training-certifications/google-cloud-cloud-digital-leader-certification-and-training",
+    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://www.jdla.org/news/20260601001/",
+    "https://www.jdla.org/news/20260710001/",
+    "https://www.ipa.go.jp/shiken/minaoshi/index.html",
+    "https://aihackathon.jp/",
+    "https://www.hpc.co.jp/seminar/workshop260819/",
+    "https://prtimes.jp/main/html/rd/p/000000228.000045379.html",
+    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
+    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
+    "https://aisi.go.jp/output/output_information/260723/"
   ],
   "previous_titles": [
-    "Microsoft、Azure AI基礎資格 AI-900・AI-102が6月30日付で退役、後継AI-901・AI-103が始動",
-    "GUGA、令和8年熊本地震に伴う「2026年8月 生成AIパスポート試験」特別措置（キャンセル・全額返金）を発表",
-    "AIAU Craft Day、AIコーディングエージェントで3日間プロダクトをローンチするオフラインハッカソンを六本木で開催（8/14〜16）",
-    "DevinCon、AI駆動開発カンファレンスを8月26日に浜松町で開催",
-    "経済産業省、AI政策とロボット政策を一元化する新組織「AI産業課」を8月5日付で設置",
-    "デジタル庁、政府生成AI基盤「源内」で国産LLM7モデルの試用を8月から開始"
+    "Google Cloud「Cloud Digital Leader」資格が8月11日で提供終了、改訂版へ移行",
+    "Microsoft、Azureセキュリティ資格AZ-500が8月31日付で廃止、SC-500へ移行",
+    "Microsoft、Azure開発者資格AZ-204が7月31日付で廃止、AI-200へ移行",
+    "JDLA、「2026年 第2回 E資格」受験申込を受付中（8月28〜30日実施）",
+    "JDLA、「2026年 第5回 G検定」受験申込を開始（9月4〜6日実施）",
+    "IPA情報処理技術者試験、2027年度に3領域へ大規模再編へ",
+    "賞金総額100万円のAIハッカソン「AI HACK 2026」8月16日に成果発表会",
+    "HPCシステムズ主催「第6回 計算科学フロンティアワークショップ〜AIと量子コンピュータの現在と未来〜」",
+    "ファインディ主催「DevOps × AI Agent Hackathon」8月19日にGoogle Japanオフィスで開催",
+    "政府、「人工知能基本計画（第Ⅱ期）」を7月14日閣議決定、策定から半年での改定",
+    "デジタル庁、「生成AIの調達・利活用に係るガイドライン（第2.0版）」を公表",
+    "AISI、「AIロボティクスに関するセーフティ評価観点ガイド」を公開"
   ]
 }
