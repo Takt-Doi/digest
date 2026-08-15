@@ -1,25 +1,21 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
-    "https://ai-kenkyujo.com/certification/e-shikaku/ai-eshikaku-syllabus/",
-    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc-cbt.html",
-    "https://www.ipa.go.jp/pressrelease/2026/press20260729-2.html",
-    "https://guga.or.jp/2026-08-03-1100",
-    "https://guga.or.jp/2026-08-05_1300",
-    "https://aiau.connpass.com/event/401500/",
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
-    "https://ascii.jp/elem/000/004/379/4379302/"
+    "https://learn.microsoft.com/ja-jp/credentials/certifications/azure-security-engineer/",
+    "https://aws.amazon.com/jp/blogs/news/aws-certification-hierarchy-recertification-guide/",
+    "https://www.jdla.org/news/20260710001/",
+    "https://devin.ai/devincon26",
+    "https://matsuo-institute.com/seminar/ai-project-procurement-2/",
+    "https://zenn.dev/hackathons/google-cloud-japan-ai-hackathon-vol5",
+    "https://www.nikkei.com/article/DGXZQOUA102SN0Q6A810C2000000/"
   ],
   "previous_titles": [
-    "Microsoft、AI-102後継の新資格「AI-103(Azure AI Apps and Agents Developer Associate)」提供へ",
-    "JDLA、「E資格2026年第2回」(8月28〜30日実施)よりシラバスを改訂",
-    "IPA、2026年度の応用情報・高度試験・情報処理安全確保支援士試験をCBT方式へ移行",
-    "IPA、令和8年熊本地震の被災地向けに情報処理技術者試験の救済措置を発表",
-    "GUGA、生成AIパスポートの団体受験の申込・支払方法を8月1日にリニューアル",
-    "GUGA、令和8年熊本地震に伴う「2026年8月 生成AIパスポート試験」特別措置",
-    "AIAU Craft Day(8月14〜16日・六本木)、Supabase×Devinのプロダクト開発ハッカソン",
-    "経済産業省、AIとロボット政策を一元化する新課「AI産業課」を8月5日付で設置",
-    "デジタル庁、ガバメントAI向け国産LLM7件の試用を8月頃開始へ"
+    "Microsoft、AZ-204・AZ-500を廃止し生成AI対応資格(AI-200/SC-500)へ移行",
+    "AWS、「Advanced Networking - Specialty」を8月25日付で廃止",
+    "JDLA、「2026年 第5回 G検定」受験申込を開始(9月4〜6日実施)",
+    "AI駆動開発カンファレンス「DevinCon」(8月26日・浜松町)",
+    "松尾研究所「AI発注力講座 2026 Autumn」募集開始",
+    "「第5回 Agentic AI Hackathon with Google Cloud」、8月20日エントリー開始",
+    "政府、生成AIの知的財産保護ルールを省庁横断で策定へ"
   ]
 }
