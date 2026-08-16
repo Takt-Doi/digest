@@ -1,21 +1,25 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "previous_urls": [
-    "https://learn.microsoft.com/ja-jp/credentials/certifications/azure-security-engineer/",
-    "https://aws.amazon.com/jp/blogs/news/aws-certification-hierarchy-recertification-guide/",
-    "https://www.jdla.org/news/20260710001/",
-    "https://devin.ai/devincon26",
-    "https://matsuo-institute.com/seminar/ai-project-procurement-2/",
-    "https://zenn.dev/hackathons/google-cloud-japan-ai-hackathon-vol5",
-    "https://www.nikkei.com/article/DGXZQOUA102SN0Q6A810C2000000/"
+    "https://www.jdla.org/news/20250919001/",
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://guga.or.jp/generativeaiexam/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
+    "https://www.meti.go.jp/press/2025/03/20260331003/20260331003.html",
+    "https://www.ubun.co.jp/news/seminar260819",
+    "https://www.geechs.com/newsrelease/20260626_geechsjob_ai_hackathon2026/",
+    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
+    "https://innovatopia.jp/ai/ai-news/115265/"
   ],
   "previous_titles": [
-    "Microsoft、AZ-204・AZ-500を廃止し生成AI対応資格(AI-200/SC-500)へ移行",
-    "AWS、「Advanced Networking - Specialty」を8月25日付で廃止",
-    "JDLA、「2026年 第5回 G検定」受験申込を開始(9月4〜6日実施)",
-    "AI駆動開発カンファレンス「DevinCon」(8月26日・浜松町)",
-    "松尾研究所「AI発注力講座 2026 Autumn」募集開始",
-    "「第5回 Agentic AI Hackathon with Google Cloud」、8月20日エントリー開始",
-    "政府、生成AIの知的財産保護ルールを省庁横断で策定へ"
+    "JDLA「2026年 第2回 E資格」シラバス改定(8/28〜30実施、基礎重視へ)",
+    "全日本情報学習振興協会「生成AIアドバイザー認定試験」第3回(8/30)より出題範囲を変更",
+    "GUGA「生成AIパスポート」2026年9月試験(9/5実施)の申込受付中",
+    "Microsoft、AI-102後継の新資格「AI-103」がベータ提供開始",
+    "経産省、情報処理技術者試験を2027年度に再編、「データマネジメント試験」新設へ",
+    "「EC＆SNS＆AI HACK 2026 SUMMER」8月19日・20日オンライン開催",
+    "「AI HACKATHON 2026 Powered by GEECHS JOB」8月22日開催・最終選考",
+    "内閣府、「第Ⅱ期 人工知能基本計画(日本AX)」を閣議決定(7/14)",
+    "経産省、AIとロボット政策を一元化する新組織「AI産業課」を8/5設置"
   ]
 }
