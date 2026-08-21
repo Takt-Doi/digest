@@ -1,27 +1,19 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "previous_urls": [
-    "https://www.jdla.org/news/20260601001/",
-    "https://it-shien.smrj.go.jp/schedule/",
-    "https://www.meti.go.jp/press/2025/03/20260331003/20260331003.html",
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
-    "https://guga.or.jp/generativeaiexam/",
-    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
-    "https://prtimes.jp/main/html/rd/p/000000079.000080038.html",
-    "https://increments.connpass.com/event/397622/",
-    "https://hackz.connpass.com/event/402307/",
-    "https://innovatopia.jp/ai/ai-news/115265/"
+    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc-cbt.html",
+    "https://ai-kenkyujo.com/certification/e-shikaku/ai-eshikaku-syllabus/",
+    "https://www.geechs.com/newsrelease/20260626_geechsjob_ai_hackathon2026/",
+    "https://flux.jp/news/1650/",
+    "https://aihackathon.jp/"
   ],
   "previous_titles": [
-    "JDLA「2026年 第2回 E資格」8/28〜8/30実施、申込締切は受験日前日",
-    "「デジタル化・AI導入補助金2026」次回締切、8/25(火)17:00",
-    "情報処理技術者試験、2027年度に「データ・AI」領域を新設する大改革",
-    "Microsoft、AZ-204後継の新資格「AI-200」「AI-103」始動",
-    "生成AIパスポート、2026年10月試験の申込を受付中",
-    "生成AIアドバイザー認定試験、第3回(8/30)から2級シラバスを1級と統一",
-    "「EC＆SNS＆AI HACK 2026SUMMER」8/19-20開催、AI活用事例36セッション",
-    "「Qiita AI Summit」9/10開催、AI駆動開発のエンジニアリング戦略",
-    "「Insight Seekers Hackathon」9/7開催、AIコーディング講座も並行実施",
-    "経済産業省、AIとロボット政策を一元化する新組織「AI産業課」を8/5付で設置"
+    "Microsoft、AZ-500（Azureセキュリティエンジニア資格）を8/31に廃止、後継SC-500が始動",
+    "IPA、応用情報・高度試験等を2026年度からCBT方式へ全面移行",
+    "JDLA「E資格2026#2」（8/28〜8/30実施）よりシラバスを改定",
+    "「AI HACKATHON 2026 Powered by GEECHS JOB」8/22(土)渋谷で開催",
+    "「JAPAN & AI SUMMIT 2026 by FLUX」8/26(水)虎ノ門ヒルズで開催",
+    "「AI HACK 2026」9/19-23開催、賞金総額100万円のAIハッカソン"
   ]
 }
