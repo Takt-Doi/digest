@@ -1,19 +1,27 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc-cbt.html",
-    "https://ai-kenkyujo.com/certification/e-shikaku/ai-eshikaku-syllabus/",
-    "https://www.geechs.com/newsrelease/20260626_geechsjob_ai_hackathon2026/",
-    "https://flux.jp/news/1650/",
-    "https://aihackathon.jp/"
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://www.jdla.org/news/20260710001/",
+    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_yotei.html",
+    "https://aismiley.co.jp/ai_hakurankai/summer-2026/",
+    "https://gen-ai-conf.org/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000170100.html",
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
+    "https://www.watch.impress.co.jp/docs/news/2091358.html"
   ],
   "previous_titles": [
-    "Microsoft、AZ-500（Azureセキュリティエンジニア資格）を8/31に廃止、後継SC-500が始動",
-    "IPA、応用情報・高度試験等を2026年度からCBT方式へ全面移行",
-    "JDLA「E資格2026#2」（8/28〜8/30実施）よりシラバスを改定",
-    "「AI HACKATHON 2026 Powered by GEECHS JOB」8/22(土)渋谷で開催",
-    "「JAPAN & AI SUMMIT 2026 by FLUX」8/26(水)虎ノ門ヒルズで開催",
-    "「AI HACK 2026」9/19-23開催、賞金総額100万円のAIハッカソン"
+    "MicrosoftのAzure Developer Associate（AZ-204）が7/31廃止、後継はAzure AI Cloud Developer Associate（AI-200）",
+    "MicrosoftのAzure AI Engineer Associate（AI-102）が6/30廃止、後継はAzure AI Apps and Agents Developer Associate（AI-103）",
+    "「生成AIアドバイザー認定試験」8/30の第3回試験より2級の出題範囲を1級と統一",
+    "JDLA「2026年 第5回G検定」受験申込受付中、オンライン試験は9/5(申込締切9/2)",
+    "IPA、応用情報・高度試験のCBT移行後の実施スケジュールを公表（前期2026年11月頃・後期2027年2月頃）",
+    "「AI博覧会 Summer 2026」8/26-27、新宿住友ビル三角広場で開催",
+    "「生成AIカンファレンス2026」9/8、東京大学＆オンラインで開催決定",
+    "AIエージェント経済カンファレンス「Agentic Summit」9/23開催、受付開始",
+    "経産省、AIとロボット政策を一元化する新組織「AI産業課」を設置（8/5公布・施行）",
+    "デジタル庁、ガバメントAI「源内」で国産LLM7モデルの試用を8月頃開始"
   ]
 }
