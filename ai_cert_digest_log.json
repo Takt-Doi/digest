@@ -1,21 +1,21 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://www.jdla.org/news/20260601001/",
-    "https://guga.or.jp/2025-10-01/1100-0",
-    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc-cbt.html",
-    "https://flux.jp/news/1650/",
-    "https://helpmeeekeiko.connpass.com/event/403450/",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf"
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-cloud-developer-associate-certification/4494116",
+    "https://ai.watch.impress.co.jp/docs/news/2130049.html",
+    "https://weekly.ascii.jp/elem/000/004/379/4379302/",
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
+    "https://www.jdla.org/news/20260710001/",
+    "https://www.jdla.org/events/20260821003/"
   ],
   "previous_titles": [
-    "Microsoft認定資格「AZ-500：Azure Security Engineer Associate」が2026年8月31日に廃止、後継はSC-500",
-    "JDLA「2026年 第2回 E資格」8/28〜8/30実施、改定シラバス初適用・申込先着順受付中",
-    "生成AIパスポート、2026年から試験開催を年3回から年5回に拡大",
-    "IPA、応用情報・高度試験・情報処理安全確保支援士試験を2026年度からCBT方式に移行、2027年度に新試験制度へ再編予定",
-    "日本AI立国会議「JAPAN & AI SUMMIT 2026 by FLUX」8/26虎ノ門ヒルズフォーラムで開催",
-    "「情シスのための『生成AI×セキュリティ』セミナー」8/27オンライン開催",
-    "政府、第Ⅱ期AI基本計画「日本AX、より強く、より豊かに」を2026年7月14日に閣議決定"
+    "生成AIアドバイザー認定試験、第3回(8/30)から2級出題範囲を1級と統一",
+    "Microsoft、AZ-204後継「Azure AI Cloud Developer Associate(AI-200)」を正式提供開始",
+    "生成AIパスポート、団体受験の申込・支払方法をリニューアル(8/1申込分より)",
+    "デジタル庁、政府AI基盤「源内」で国産LLM7モデルの試用を8月から開始",
+    "経済産業省、AI・ロボット政策を一元化する新課「情報処理システム開発・ロボット課」を8/5設置",
+    "JDLA「2026年 第5回 G検定」9/4〜9/6実施、申込7/10受付開始",
+    "生成AIカンファレンス2026、9/8開催決定(JDLA後援)"
   ]
 }
