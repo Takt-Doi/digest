@@ -1,21 +1,19 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "previous_urls": [
-    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
-    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-cloud-developer-associate-certification/4494116",
-    "https://ai.watch.impress.co.jp/docs/news/2130049.html",
-    "https://weekly.ascii.jp/elem/000/004/379/4379302/",
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
-    "https://www.jdla.org/news/20260710001/",
-    "https://www.jdla.org/events/20260821003/"
+    "https://www.jdla.org/news/20260601001/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://www.aifestival.jp/hackathon",
+    "https://guga.or.jp/outline/",
+    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
+    "https://perfact.jp/tips/jinzai-kaihatsu-kaisei-20260803/"
   ],
   "previous_titles": [
-    "生成AIアドバイザー認定試験、第3回(8/30)から2級出題範囲を1級と統一",
-    "Microsoft、AZ-204後継「Azure AI Cloud Developer Associate(AI-200)」を正式提供開始",
-    "生成AIパスポート、団体受験の申込・支払方法をリニューアル(8/1申込分より)",
-    "デジタル庁、政府AI基盤「源内」で国産LLM7モデルの試用を8月から開始",
-    "経済産業省、AI・ロボット政策を一元化する新課「情報処理システム開発・ロボット課」を8/5設置",
-    "JDLA「2026年 第5回 G検定」9/4〜9/6実施、申込7/10受付開始",
-    "生成AIカンファレンス2026、9/8開催決定(JDLA後援)"
+    "JDLA「E資格2026年第2回」、改定シラバス初適用、申込締切は本日8/27",
+    "Microsoft「AZ-500」が8/31廃止、後継「SC-500」へ移行",
+    "「全日本AIハッカソン2026」決勝は11/7に東京で開催決定、予選最終ラウンドは8/22終了",
+    "生成AIパスポート、10月試験の申込受付中（〜9/30）",
+    "IPA、情報処理技術者試験を2027年度から大改定「データ・AI」区分を新設",
+    "人材開発支援助成金、AIリテラシー研修が助成対象外に（8/3改正）"
   ]
 }
