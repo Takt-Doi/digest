@@ -1,19 +1,23 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "previous_urls": [
-    "https://www.jdla.org/news/20260601001/",
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://www.aifestival.jp/hackathon",
-    "https://guga.or.jp/outline/",
-    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
-    "https://perfact.jp/tips/jinzai-kaihatsu-kaisei-20260803/"
+    "https://www.jdla.org/news/20260710001/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
+    "https://ledge.ai/articles/digital_agency_gennai_domestic_llm_selection_government_trial",
+    "https://hiraku-law.com/insights/6655/",
+    "https://aihackathon.jp/",
+    "https://matsuo-institute.com/seminar/ai-project-procurement-2/"
   ],
   "previous_titles": [
-    "JDLA「E資格2026年第2回」、改定シラバス初適用、申込締切は本日8/27",
-    "Microsoft「AZ-500」が8/31廃止、後継「SC-500」へ移行",
-    "「全日本AIハッカソン2026」決勝は11/7に東京で開催決定、予選最終ラウンドは8/22終了",
-    "生成AIパスポート、10月試験の申込受付中（〜9/30）",
-    "IPA、情報処理技術者試験を2027年度から大改定「データ・AI」区分を新設",
-    "人材開発支援助成金、AIリテラシー研修が助成対象外に（8/3改正）"
+    "G検定「2026年第5回」受験申込、本日8/28が最終締切（会場試験9/4-9/6・オンライン9/5）",
+    "Microsoft「AI-103」開始、Azure AI Apps and Agents Developer Associate（AI-102後継）",
+    "Microsoft「AI-200」ベータ開始、Azure AI Cloud Developer Associate（AZ-204後継）",
+    "経産省、AI・ロボット政策一元化の新課「AI産業課」を8/5付で新設",
+    "デジタル庁、ガバメントAI「源内」で国産LLM7モデルの試用を8月開始",
+    "EU AI法、8/2よりAI開示の透明性義務が適用開始",
+    "「AI HACK 2026」9/19-23開催、賞金総額100万円のAIハッカソン",
+    "松尾研究所「AI発注力講座 2026 Autumn」募集開始（8/3〜、毎週水曜）"
   ]
 }
