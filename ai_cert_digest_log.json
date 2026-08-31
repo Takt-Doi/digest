@@ -1,23 +1,15 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "previous_urls": [
-    "https://www.jdla.org/news/20260804001/",
-    "https://innovatopia.jp/ai/ai-news/115265/",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
-    "https://ict-enews.net/2026/08/03ipa-3/",
-    "https://canal-ai.com/blog/2026-08-05-reskilling-hojokin-kaisei.html",
-    "https://www.jdla.org/news/20260710001/",
-    "https://x.com/googlecloud_jp/status/2085569960244646212",
-    "https://aihackathon.jp/"
+    "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500",
+    "https://support.google.com/cloud-certification/answer/9907853?hl=ja",
+    "https://guga.or.jp/2025-10-01/1100-0",
+    "https://www.meti.go.jp/policy/mono_info_service/geniac/index.html"
   ],
   "previous_titles": [
-    "JDLA、企業向けAIガバナンス第三者認証「C認証」の一般申請受付を8月4日開始",
-    "経済産業省、AIとロボット政策を一元化する新課「AI産業課」を設置(8月5日公布・施行)",
-    "内閣府、「人工知能基本計画」を改定、副題を「日本AX、より強く、より豊かに」に変更(7月14日閣議決定)",
-    "IPA、次世代試験「プロフェッショナルデジタルスキル試験」データ-AI区分のシラバス案を公表",
-    "人材開発支援助成金「リスキリング支援コース」、AI研修の助成対象要件を8月3日付で厳格化",
-    "JDLA「2026年 第5回 G検定」9月4日〜6日実施予定(申込は8月28日締切済み)",
-    "Google Cloud Japan、9月に無料オンライン講座でGenerative AI Leader認定資格取得プログラムを提供",
-    "「AI HACK 2026」9月19日〜23日開催、賞金総額100万円のAIハッカソン(定員150名)"
+    "Microsoft「AZ-500」認定試験、本日8月31日で廃止。後継は「SC-500(Cloud and AI Security Engineer Associate)」",
+    "Google Cloud認定、8月31日までに失効するPCA・PDE・ACE・CDL保有者へ9月1日までの1回限りの延長措置",
+    "GUGA、生成AIパスポートを2026年から年5回開催(2・4・6・8・10月)に拡大",
+    "経済産業省GENIAC、採択事業者向け事業計画発表会・中間報告会・成果報告会等を9月9日に開催予定"
   ]
 }
