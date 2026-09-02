@@ -1,35 +1,17 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "previous_urls": [
-    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
-    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf",
-    "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103",
-    "https://aws.amazon.com/blogs/training-and-certification/big-news-aws-expands-ai-certification-portfolio-and-updates-security-certification/",
-    "https://www.jdla.org/news/20260601001/",
-    "https://www.jdla.org/news/20260710001/",
-    "https://www.sakura.ad.jp/ai-certification/",
-    "https://generative-ai-conf.connpass.com/event/401540/",
-    "https://jdla.connpass.com/event/402752/",
-    "https://aihackathon.jp/",
-    "https://matsuo-institute.com/2026/08/1480/",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
-    "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1"
+    "https://www.ipa.go.jp/shiken/minaoshi/index.html",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cloud-and-ai-security-engineer-associate-certification/4494117",
+    "https://guga.or.jp/event/202608017",
+    "https://guga.or.jp/event/202608021",
+    "https://www.jdla.org/events/20260618003/"
   ],
   "previous_titles": [
-    "AWS、機械学習エンジニア資格新版「MLA-C02」のベータ試験登録が本日9月1日開始",
-    "デジタル庁、行政向け生成AI調達・利活用ガイドライン第2.0版が本日9月1日施行",
-    "Microsoft、Azure資格ラインアップをAI中心に全面刷新(AI-900/AI-102/AZ-204が相次ぎ廃止、後継AI-901/AI-103/AI-200へ)",
-    "AWS、生成AI開発者向け新資格「Generative AI Developer – Professional」開始、ML Specialtyは廃止へ",
-    "JDLA、E資格2026年第2回よりシラバス改定(RAG・自己回帰など追加)",
-    "JDLA、G検定2026年第5回試験を9月4日〜6日に実施、第6回申込は9月11日開始",
-    "さくらインターネット、国産AI検定「さくらのAI検定」新設・第1回試験を9月18・19日に実施",
-    "生成AIカンファレンス2026(JDLA後援)、9月8日に東京大学およびオンラインで開催",
-    "JDLA/CDLE業種別勉強会Vol.3、9月2日にオンライン開催(社会インフラ×AI活用)",
-    "AIハッカソン「AI HACK 2026」、9月19日〜23日に東京で開催",
-    "松尾研究所、「AI発注力講座 2026 Autumn」を9月開講(募集締切9月24日)",
-    "政府、第Ⅱ期「人工知能基本計画」を閣議決定",
-    "知的財産戦略本部、生成AIの知財保護・透明性に関する「プリンシプル・コード」を公表",
-    "経済産業省、AI・ロボット政策を一元化する「AI産業課」を新設"
+    "IPA、情報処理技術者試験を抜本改革──「データ・AI領域」を含む新試験区分へ",
+    "Microsoft「AZ-500」8月31日付で廃止、後継はAI対応の「SC-500」",
+    "GUGA後援「DXシステム開発 Expo 2026」9月3日・4日開催",
+    "GUGA後援「AI & DX Leaders' Conference 2026」9月11日開催",
+    "JDLA後援「自動運転AIチャレンジ2026」ファイナル、9月19日・20日に東京開催"
   ]
 }
