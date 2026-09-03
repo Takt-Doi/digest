@@ -1,17 +1,23 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "previous_urls": [
-    "https://www.ipa.go.jp/shiken/minaoshi/index.html",
-    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-cloud-and-ai-security-engineer-associate-certification/4494117",
-    "https://guga.or.jp/event/202608017",
-    "https://guga.or.jp/event/202608021",
-    "https://www.jdla.org/events/20260618003/"
+    "https://www.jdla.org/news/20260710001/",
+    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+    "https://guga.or.jp/2026-08-03-1100",
+    "https://news.livedoor.com/pr_topics/detail/32216635/",
+    "https://www.aifestival.jp/hackathon",
+    "https://aihackathon.jp/",
+    "https://task-school.com/2026/09/16410/",
+    "https://innovatopia.jp/ai/ai-news/115265/"
   ],
   "previous_titles": [
-    "IPA、情報処理技術者試験を抜本改革──「データ・AI領域」を含む新試験区分へ",
-    "Microsoft「AZ-500」8月31日付で廃止、後継はAI対応の「SC-500」",
-    "GUGA後援「DXシステム開発 Expo 2026」9月3日・4日開催",
-    "GUGA後援「AI & DX Leaders' Conference 2026」9月11日開催",
-    "JDLA後援「自動運転AIチャレンジ2026」ファイナル、9月19日・20日に東京開催"
+    "JDLA「2026年 第5回 G検定（ジェネラリスト検定）」、今週実施",
+    "AWS認定「Machine Learning Engineer – Associate」、MLA-C02へ更新",
+    "生成AIパスポート、団体受験をリニューアル＋10月試験は申込受付中",
+    "松尾研究所「Deep Learning基礎講座」がE資格認定プログラムに追加",
+    "全日本AIハッカソン2026 敗者復活戦（9/26オンライン）",
+    "AI HACK 2026（9/19〜23、賞金最大100万円）",
+    "タスクール「ゼロから学べる！AI活用術（実践編）」（9/26 名古屋・対面/オンライン）",
+    "経済産業省、AI・ロボット政策を一元化する新課「AI産業課」を新設"
   ]
 }
