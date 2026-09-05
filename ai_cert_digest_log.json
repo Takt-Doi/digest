@@ -1,31 +1,21 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "previous_urls": [
-    "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
-    "https://aws.amazon.com/jp/blogs/training-and-certification/september-2026-new-offerings/",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
-    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
-    "https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260622.html",
-    "https://generative-ai-conf.connpass.com/event/401540/",
-    "https://www.shikaku-doujou.com/blog/ai-103-ai-901-moushikomi",
-    "https://aws.amazon.com/jp/blogs/news/big-news-aws-expands-ai-certification-portfolio-and-updates-security-certification/",
-    "https://x.com/googlecloud_jp/status/2085569960244646212",
-    "https://guga.or.jp/event/202608021",
-    "https://matsuo-institute.com/2026/08/1480/",
-    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/59054b35/20260612_resources_standard_guidelines_guideline_01.pdf"
+    "https://www.jdla.org/news/20260710001/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://aws.amazon.com/jp/certification/certified-generative-ai-developer-professional/",
+    "https://aihackathon.jp/",
+    "https://codecast.connpass.com/event/404327/",
+    "https://innovatopia.jp/ai/ai-news/115265/"
   ],
   "previous_titles": [
-    "内閣府知財戦略本部、生成AI事業者向け「プリンシプル・コード」を公表（8/25）",
-    "AWS「Machine Learning Engineer – Associate」がMLA-C02へ改訂、ベータ登録9/1開始・最終受験日9/28",
-    "内閣府「人工知能基本計画（第Ⅱ期）」を7/14閣議決定",
-    "IPA、情報処理技術者試験を2027年度に3区分「プロフェッショナルデジタルスキル試験」へ再編",
-    "IPA新試験制度、サンプル問題を一部公開（6/22）",
-    "生成AIカンファレンス2026（JDLA後援）、9/8開催",
-    "Microsoft認定 AI-102/AI-900、後継のAI-103/AI-901へ移行完了",
-    "AWS「Machine Learning – Specialty」廃止、後継資格ポートフォリオへ移行案内",
-    "Google Cloud「Generative AI Leader」、9月に無料トレーニングを開催",
-    "AI & DX Leaders' Conference 2026（GUGA後援）、9/11開催",
-    "松尾研究所「AI発注力講座 2026 Autumn」、申込締切9/24",
-    "デジタル庁「生成AI調達・利活用ガイドラインDS-920」公開（6/12）"
+    "G検定2026年第5回、9/5(土)オンライン試験実施日",
+    "Microsoft認定AZ-204、7/31廃止・後継AI-200へ移行",
+    "Microsoft認定AZ-500、8/31廃止・後継SC-500へ移行",
+    "AWS「Generative AI Developer – Professional」正式受験開始",
+    "AIハッカソン「AI HACK 2026」、9/19〜23東京開催",
+    "出版記念イベント「AI駆動開発の最前線」、9/12開催",
+    "経済産業省、AI産業課（情報処理システム開発・ロボット課）を8/5発足"
   ]
 }
