@@ -1,23 +1,25 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "previous_urls": [
-    "https://www.brush-up.jp/theme/it/ai/sub/g-schedule",
-    "https://kn.itmedia.co.jp/kn/articles/2604/24/news045.html",
-    "https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-901/",
-    "https://generative-ai-conf.connpass.com/event/401540/",
-    "https://matsuo-institute.com/2026/08/1480/",
-    "https://kansai-ai-co.connpass.com/event/404652/",
-    "https://yamanaka-bengoshi.jp/2026/08/27/seisei-ai-principle-code-taishou-jigyousha-kaiji-todokede/",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf"
+    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://aws.amazon.com/jp/blogs/news/aws-certification-retirements-and-launches/",
+    "https://aws.amazon.com/certification/certified-generative-ai-developer-professional/",
+    "https://guga.or.jp/generativeaiexam/",
+    "https://aihackathon.jp/",
+    "https://aibuilderstokyo.connpass.com/event/406048/",
+    "https://aid.connpass.com/event/405241/",
+    "https://data-analysis-basics.connpass.com/event/405737/",
+    "https://innovatopia.jp/ai/ai-news/115265/"
   ],
   "previous_titles": [
-    "G検定2026年第6回、9/11(金)申込受付開始予定・試験11/6-11/7",
-    "IPA情報処理技術者試験、2027年度に大幅刷新（応用情報・高度試験は2026年度で終了）",
-    "Microsoft認定AI-900/AI-102、後継AI-901/AI-103へ移行完了(6/30付)",
-    "生成AIカンファレンス2026、JDLA後援・9/8東京大学で開催",
-    "松尾研究所「AI発注力講座 2026 Autumn」9月開講、全5回",
-    "第8回AI勉強会「もくもく会」、9/17オンライン開催",
-    "政府、生成AI事業者向け「知的財産プリンシプル・コード」公表(8/25)",
-    "「人工知能基本計画」第Ⅱ期を閣議決定(7/14、日本AX)"
+    "Microsoft認定AZ-500、2026年8月31日付で廃止・後継SC-500へ（自動移行なし）",
+    "AWS Machine Learning – Specialty、2026年3月31日で終了・AI Practitioner等へ再編",
+    "AWS Certified Generative AI Developer – Professional、正式版の受験受付開始",
+    "生成AIパスポート2026年10月試験、申込受付中（8/1〜9/30）",
+    "AI HACK 2026、9/19-23東京開催・賞金最大100万円のAIハッカソン",
+    "AIビルダーズ東京ハッカソン、9/23当日視聴見学枠募集",
+    "AI駆動開発勉強会 神戸支部 第9回、9/16オンライン開催",
+    "0からのClaude CodeによるAIエージェント入門セミナー、9/13オンライン開催",
+    "経産省、AI・ロボット政策を一元化する「AI産業戦略課」を8/5付で新設"
   ]
 }
