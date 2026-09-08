@@ -1,25 +1,21 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://aws.amazon.com/jp/blogs/news/aws-certification-retirements-and-launches/",
-    "https://aws.amazon.com/certification/certified-generative-ai-developer-professional/",
-    "https://guga.or.jp/generativeaiexam/",
-    "https://aihackathon.jp/",
-    "https://aibuilderstokyo.connpass.com/event/406048/",
-    "https://aid.connpass.com/event/405241/",
-    "https://data-analysis-basics.connpass.com/event/405737/",
-    "https://innovatopia.jp/ai/ai-news/115265/"
+    "https://www.jdla.org/news/20251008001/",
+    "https://www.jdla.org/events/20260821003/",
+    "https://www.ipa.go.jp/shiken/minaoshi/index.html",
+    "https://learn.microsoft.com/ja-jp/credentials/certifications/retired-courses",
+    "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
+    "https://layerx.connpass.com/event/405165/",
+    "https://matsuo-institute.com/seminar/ai-project-procurement-2/"
   ],
   "previous_titles": [
-    "Microsoft認定AZ-500、2026年8月31日付で廃止・後継SC-500へ（自動移行なし）",
-    "AWS Machine Learning – Specialty、2026年3月31日で終了・AI Practitioner等へ再編",
-    "AWS Certified Generative AI Developer – Professional、正式版の受験受付開始",
-    "生成AIパスポート2026年10月試験、申込受付中（8/1〜9/30）",
-    "AI HACK 2026、9/19-23東京開催・賞金最大100万円のAIハッカソン",
-    "AIビルダーズ東京ハッカソン、9/23当日視聴見学枠募集",
-    "AI駆動開発勉強会 神戸支部 第9回、9/16オンライン開催",
-    "0からのClaude CodeによるAIエージェント入門セミナー、9/13オンライン開催",
-    "経産省、AI・ロボット政策を一元化する「AI産業戦略課」を8/5付で新設"
+    "G検定「2026年 第6回」受験申込受付、9月11日開始（試験11/6-7）",
+    "生成AIカンファレンス2026、9/8東京大学で開催（JDLA後援）",
+    "IPA、情報処理技術者試験を2027年度に大改訂 応用情報・高度試験は2026年度で終了",
+    "マイクロソフト認定資格、過去最大規模の再編 AZ-800/AZ-801は9/30廃止・後継AZ-802へ",
+    "AWS認定資格、9月にMLA-C02・SAP-C03・DVA-C03の3試験をAI要素強化の内容に改訂",
+    "AIエージェント設計勉強会（LayerX主催）、9/15開催",
+    "AI発注力講座2026 Autumn（松尾研究所）、募集締切9/24"
   ]
 }
