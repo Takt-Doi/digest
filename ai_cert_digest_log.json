@@ -1,21 +1,21 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "previous_urls": [
-    "https://www.jdla.org/news/20251008001/",
-    "https://www.jdla.org/events/20260821003/",
-    "https://www.ipa.go.jp/shiken/minaoshi/index.html",
-    "https://learn.microsoft.com/ja-jp/credentials/certifications/retired-courses",
-    "https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/",
-    "https://layerx.connpass.com/event/405165/",
-    "https://matsuo-institute.com/seminar/ai-project-procurement-2/"
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://aws.amazon.com/certification/certified-generative-ai-developer-professional/",
+    "https://cloud.google.com/learn/certification/guides/machine-learning-engineer?hl=ja",
+    "https://aihackathon.jp/",
+    "https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/kickoffevents_5.html",
+    "https://innovatopia.jp/ai/ai-news/115265/"
   ],
   "previous_titles": [
-    "G検定「2026年 第6回」受験申込受付、9月11日開始（試験11/6-7）",
-    "生成AIカンファレンス2026、9/8東京大学で開催（JDLA後援）",
-    "IPA、情報処理技術者試験を2027年度に大改訂 応用情報・高度試験は2026年度で終了",
-    "マイクロソフト認定資格、過去最大規模の再編 AZ-800/AZ-801は9/30廃止・後継AZ-802へ",
-    "AWS認定資格、9月にMLA-C02・SAP-C03・DVA-C03の3試験をAI要素強化の内容に改訂",
-    "AIエージェント設計勉強会（LayerX主催）、9/15開催",
-    "AI発注力講座2026 Autumn（松尾研究所）、募集締切9/24"
+    "Microsoft認定資格 AZ-204→AI-200へ移行（7/31廃止・後継提供中）",
+    "Microsoft認定資格 AZ-500→SC-500へ移行（8/31廃止・7月GA）",
+    "AWS認定資格 ML Specialty廃止、Generative AI Developer Professional新設",
+    "Google Cloud Professional ML Engineer試験、10/1改定版へ切替",
+    "AI HACK 2026、9/19-23開催（賞金最大100万円）",
+    "GENIAC採択事業者 事業計画発表会・中間報告会・成果報告会、本日9/9開催",
+    "経済産業省「AI産業戦略課」新設（8/5施行）"
   ]
 }
