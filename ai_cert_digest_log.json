@@ -1,21 +1,25 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://aws.amazon.com/certification/certified-generative-ai-developer-professional/",
-    "https://cloud.google.com/learn/certification/guides/machine-learning-engineer?hl=ja",
-    "https://aihackathon.jp/",
-    "https://www.meti.go.jp/policy/mono_info_service/geniac/geniac_magazine/kickoffevents_5.html",
-    "https://innovatopia.jp/ai/ai-news/115265/"
+    "https://guga.or.jp/2025-10-01/1100-1",
+    "https://guga.or.jp/2025-10-01/1100-0",
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://www.aifestival.jp/hackathon",
+    "https://matsuo-institute.com/seminar/ai-project-procurement-2/",
+    "https://prtimes.jp/main/html/rd/p/000000550.000082530.html",
+    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
+    "https://www8.cao.go.jp/cstp/ai/ai_hq/4kai/4kai.html",
+    "https://www.nikkei.com/article/DGXZQOUA283OA0Y6A520C2000000/"
   ],
   "previous_titles": [
-    "Microsoft認定資格 AZ-204→AI-200へ移行（7/31廃止・後継提供中）",
-    "Microsoft認定資格 AZ-500→SC-500へ移行（8/31廃止・7月GA）",
-    "AWS認定資格 ML Specialty廃止、Generative AI Developer Professional新設",
-    "Google Cloud Professional ML Engineer試験、10/1改定版へ切替",
-    "AI HACK 2026、9/19-23開催（賞金最大100万円）",
-    "GENIAC採択事業者 事業計画発表会・中間報告会・成果報告会、本日9/9開催",
-    "経済産業省「AI産業戦略課」新設（8/5施行）"
+    "生成AIパスポート、2026年試験シラバス改訂・公式テキスト第4版を発売",
+    "生成AIパスポート、2026年の開催回数を年5回に拡大",
+    "生成AIアドバイザー認定試験、2級の出題範囲を1級と統一",
+    "全日本AIハッカソン2026、敗者復活戦9月開催・決勝11/7",
+    "松尾研究所「AI発注力講座 2026 Autumn」9/24締切で募集中",
+    "JMAM、生成AI実務活用のeラーニング新規4コースを9月開講",
+    "人工知能基本計画（第Ⅱ期）を7月14日に閣議決定",
+    "内閣府、第4回人工知能戦略本部を開催",
+    "デジタル庁、行政向け生成AI「源内」を政府職員10万人が利用可能に"
   ]
 }
