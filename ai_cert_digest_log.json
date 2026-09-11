@@ -1,25 +1,23 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "previous_urls": [
-    "https://guga.or.jp/2025-10-01/1100-1",
-    "https://guga.or.jp/2025-10-01/1100-0",
-    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
-    "https://www.aifestival.jp/hackathon",
-    "https://matsuo-institute.com/seminar/ai-project-procurement-2/",
-    "https://prtimes.jp/main/html/rd/p/000000550.000082530.html",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20260714.pdf",
-    "https://www8.cao.go.jp/cstp/ai/ai_hq/4kai/4kai.html",
-    "https://www.nikkei.com/article/DGXZQOUA283OA0Y6A520C2000000/"
+    "https://www.jdla.org/news/20251008001/",
+    "https://aws.amazon.com/jp/blogs/news/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
+    "https://guga.or.jp/generativeaiexam/",
+    "https://x.com/googlecloud_jp/status/2085569960244646212",
+    "https://aihackathon.jp/",
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
+    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/f8e1c3b8/20260612_resources_standard_guidelines_guideline_03.pdf"
   ],
   "previous_titles": [
-    "生成AIパスポート、2026年試験シラバス改訂・公式テキスト第4版を発売",
-    "生成AIパスポート、2026年の開催回数を年5回に拡大",
-    "生成AIアドバイザー認定試験、2級の出題範囲を1級と統一",
-    "全日本AIハッカソン2026、敗者復活戦9月開催・決勝11/7",
-    "松尾研究所「AI発注力講座 2026 Autumn」9/24締切で募集中",
-    "JMAM、生成AI実務活用のeラーニング新規4コースを9月開講",
-    "人工知能基本計画（第Ⅱ期）を7月14日に閣議決定",
-    "内閣府、第4回人工知能戦略本部を開催",
-    "デジタル庁、行政向け生成AI「源内」を政府職員10万人が利用可能に"
+    "G検定2026年第6回、本日9月11日13時より受験申込を受付開始",
+    "AWS、機械学習エンジニア資格を刷新。生成AI対応のMLA-C02ベータ版受付開始",
+    "Microsoft、Azure認定資格を2026年に大規模改定（AI-900→AI-901、AI-102→AI-103等）",
+    "生成AIパスポート、2026年10月試験の申込は9月30日まで",
+    "Google Cloud、9月に生成AIリーダー認定の取得支援プログラムを実施",
+    "AI HACK 2026、賞金最大100万円のAIハッカソンが9月19日開幕",
+    "経済産業省、AIとロボット政策を一元化する「AI産業戦略課」を新設",
+    "デジタル庁、行政向け生成AI調達・利活用ガイドライン2.0版が9月1日施行"
   ]
 }
