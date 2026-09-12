@@ -1,23 +1,21 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "previous_urls": [
-    "https://www.jdla.org/news/20251008001/",
-    "https://aws.amazon.com/jp/blogs/news/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
-    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
-    "https://guga.or.jp/generativeaiexam/",
-    "https://x.com/googlecloud_jp/status/2085569960244646212",
-    "https://aihackathon.jp/",
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1",
-    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/decb64eb-f26e-41cb-8d37-f3dd173108b8/f8e1c3b8/20260612_resources_standard_guidelines_guideline_03.pdf"
+    "https://prtimes.jp/main/html/rd/p/000002716.000000496.html",
+    "https://cloud.google.com/learn/certification/agentic-architect",
+    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
+    "https://kn.itmedia.co.jp/kn/articles/2604/24/news045.html",
+    "https://prtimes.jp/main/html/rd/p/000001447.000012383.html",
+    "https://prtimes.jp/main/html/rd/p/000000024.000178799.html",
+    "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/009/kaisai/index.html"
   ],
   "previous_titles": [
-    "G検定2026年第6回、本日9月11日13時より受験申込を受付開始",
-    "AWS、機械学習エンジニア資格を刷新。生成AI対応のMLA-C02ベータ版受付開始",
-    "Microsoft、Azure認定資格を2026年に大規模改定（AI-900→AI-901、AI-102→AI-103等）",
-    "生成AIパスポート、2026年10月試験の申込は9月30日まで",
-    "Google Cloud、9月に生成AIリーダー認定の取得支援プログラムを実施",
-    "AI HACK 2026、賞金最大100万円のAIハッカソンが9月19日開幕",
-    "経済産業省、AIとロボット政策を一元化する「AI産業戦略課」を新設",
-    "デジタル庁、行政向け生成AI調達・利活用ガイドライン2.0版が9月1日施行"
+    "AIハッカソン「HACK SONIC」第5回、エントリー締切は9月16日",
+    "Google Cloud、新資格「Professional Agentic Architect」のベータ試験を開始",
+    "AWS、機械学習・ソリューションアーキテクト・開発者の3資格を9月にアップデート",
+    "IPA、情報処理技術者試験を2027年度に大規模刷新へ",
+    "「生成AIは教育をどう変えるのか？」無料オンラインセミナー、9月16日開催",
+    "中小企業向け「生成AI」活用・実践セミナー＆ワークショップ、9月16日開催",
+    "内閣府消費者委員会、AI利用と消費者問題に関する専門調査会（第9回）を開催"
   ]
 }
