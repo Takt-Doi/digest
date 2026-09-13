@@ -1,21 +1,19 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "previous_urls": [
-    "https://prtimes.jp/main/html/rd/p/000002716.000000496.html",
-    "https://cloud.google.com/learn/certification/agentic-architect",
-    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
-    "https://kn.itmedia.co.jp/kn/articles/2604/24/news045.html",
-    "https://prtimes.jp/main/html/rd/p/000001447.000012383.html",
-    "https://prtimes.jp/main/html/rd/p/000000024.000178799.html",
-    "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/009/kaisai/index.html"
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
+    "https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01.html",
+    "https://aihackathon.jp/",
+    "https://www.meti.go.jp/main/yosangaisan/fy2027/index.html",
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1"
   ],
   "previous_titles": [
-    "AIハッカソン「HACK SONIC」第5回、エントリー締切は9月16日",
-    "Google Cloud、新資格「Professional Agentic Architect」のベータ試験を開始",
-    "AWS、機械学習・ソリューションアーキテクト・開発者の3資格を9月にアップデート",
-    "IPA、情報処理技術者試験を2027年度に大規模刷新へ",
-    "「生成AIは教育をどう変えるのか？」無料オンラインセミナー、9月16日開催",
-    "中小企業向け「生成AI」活用・実践セミナー＆ワークショップ、9月16日開催",
-    "内閣府消費者委員会、AI利用と消費者問題に関する専門調査会（第9回）を開催"
+    "Microsoft、Azure開発者資格「AZ-204」を刷新し新資格「AI-200」へ移行",
+    "Microsoft、Azureセキュリティ資格「AZ-500」も刷新し「SC-500」へ移行",
+    "AWS Certified AI Practitioner、受験促進キャンペーンは9月30日まで",
+    "AIハッカソン「AI HACK 2026」、9月19日〜23日開催",
+    "経済産業省、令和9年度概算要求でAI関連予算・AIサミット開催を計画",
+    "経済産業省、AI・ロボット政策を一元化する新部署「AI産業戦略室」を新設"
   ]
 }
