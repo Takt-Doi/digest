@@ -1,19 +1,21 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
-    "https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/",
-    "https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01.html",
-    "https://aihackathon.jp/",
-    "https://www.meti.go.jp/main/yosangaisan/fy2027/index.html",
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1"
+    "https://examinotion.com/blog/ai-102-retirement-ai-103-successor-path",
+    "https://aws.amazon.com/jp/blogs/news/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+    "https://guga.or.jp/generativeaiexam/",
+    "https://www.ipa.go.jp/shiken/syllabus/henkou/2025/20260331.html",
+    "https://aibuilderstokyo.connpass.com/event/406048/",
+    "https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html",
+    "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20260331_1.pdf"
   ],
   "previous_titles": [
-    "Microsoft、Azure開発者資格「AZ-204」を刷新し新資格「AI-200」へ移行",
-    "Microsoft、Azureセキュリティ資格「AZ-500」も刷新し「SC-500」へ移行",
-    "AWS Certified AI Practitioner、受験促進キャンペーンは9月30日まで",
-    "AIハッカソン「AI HACK 2026」、9月19日〜23日開催",
-    "経済産業省、令和9年度概算要求でAI関連予算・AIサミット開催を計画",
-    "経済産業省、AI・ロボット政策を一元化する新部署「AI産業戦略室」を新設"
+    "Microsoft、Azure AI Engineer資格「AI-102」廃止し新資格「AI-103」へ移行",
+    "AWS、Machine Learning Engineer資格を刷新しMLA-C02ベータ登録開始（MLA-C01は9/28終了）",
+    "生成AIパスポート2026年10月試験、申込は9月30日まで",
+    "IPA、情報処理技術者試験を2027年度に大改訂しデータマネジメント試験等を新設",
+    "AIBuilders Tokyo、AI HACK 2026最終日（9/23）の見学枠を募集",
+    "内閣府、AI基本計画第Ⅱ期を閣議決定",
+    "総務省・経産省、AI事業者ガイドライン第1.2版を公表"
   ]
 }
