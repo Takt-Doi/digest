@@ -1,21 +1,31 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "previous_urls": [
-    "https://examinotion.com/blog/ai-102-retirement-ai-103-successor-path",
     "https://aws.amazon.com/jp/blogs/news/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
-    "https://guga.or.jp/generativeaiexam/",
-    "https://www.ipa.go.jp/shiken/syllabus/henkou/2025/20260331.html",
-    "https://aibuilderstokyo.connpass.com/event/406048/",
-    "https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html",
-    "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20260331_1.pdf"
+    "https://learn.microsoft.com/certifications/exams/az-800",
+    "https://www.jdla.org/news/20260911001/",
+    "https://www.jdla.org/news/20260601001/",
+    "https://www.joho-gakushu.or.jp/seisei-ai-advisor/",
+    "https://academy.impress.co.jp/event/ai-day2026/",
+    "https://kansai-ai-co.connpass.com/event/404652/",
+    "https://matsuo-institute.com/seminar/ai-project-procurement-2/",
+    "https://aihackathon.jp/",
+    "https://innovatopia.jp/ai/ai-news/115265/",
+    "https://www.digital.go.jp/assets/contents/node/information/field_ref_resources/fc155eba-e83d-4ecf-9c6a-a3c855e2e7b3/d0d53b25/20260528_news_genai_outline_01.pdf",
+    "https://www.meti.go.jp/press/2026/07/20260702001/20260702001.html"
   ],
   "previous_titles": [
-    "Microsoft、Azure AI Engineer資格「AI-102」廃止し新資格「AI-103」へ移行",
-    "AWS、Machine Learning Engineer資格を刷新しMLA-C02ベータ登録開始（MLA-C01は9/28終了）",
-    "生成AIパスポート2026年10月試験、申込は9月30日まで",
-    "IPA、情報処理技術者試験を2027年度に大改訂しデータマネジメント試験等を新設",
-    "AIBuilders Tokyo、AI HACK 2026最終日（9/23）の見学枠を募集",
-    "内閣府、AI基本計画第Ⅱ期を閣議決定",
-    "総務省・経産省、AI事業者ガイドライン第1.2版を公表"
+    "AWS、機械学習エンジニア認定をMLA-C02へ刷新、生成AI/エージェンティックAI対応（MLA-C01英語版は9/28で終了）",
+    "Microsoft、Azure資格「AZ-800」「AZ-801」を9/30に廃止し後継AZ-802へ移行",
+    "JDLA、「2026年第6回G検定」（11/6-7開催）の受験申込を9/11開始",
+    "JDLA、「2026年第2回E資格」（8/28-30実施）から改定シラバスを適用",
+    "生成AIアドバイザー認定試験、第3回（8/30実施）から2級の出題範囲を1級と統一",
+    "インプレス、オンラインイベント「インプレスAI Days 2026」を9/15-16開催",
+    "関西AIコミュニティ、「第8回AI勉強会もくもく会」を9/17開催",
+    "松尾研究所、「AI発注力講座2026 Autumn」の募集を9/24締切で実施中",
+    "AIハッカソン「AI HACK 2026」、9/19-23に東京で開催、賞金最大100万円",
+    "経済産業省、AIとロボット政策を一元化する「AI産業戦略課」を8/5付で新設",
+    "デジタル庁、生成AI利用環境「源内」を2026年度以降に府省庁へ本格展開へ",
+    "経済産業省、GENIACでデータエコシステム構築等の研究開発テーマ9件を採択"
   ]
 }
