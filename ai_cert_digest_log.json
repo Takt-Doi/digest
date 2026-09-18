@@ -1,24 +1,19 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "previous_urls": [
-    "https://learn.microsoft.com/en-us/credentials/support/credential-retirement",
-    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_yotei.html",
-    "https://jinzainews.net/pressrelease/20260825-2/",
-    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
-    "https://prtimes.jp/main/html/rd/p/000000007.000172733.html",
-    "https://kansai-ai-co.connpass.com/event/405450/",
-    "https://response.jp/article/2026/09/01/415985.html",
-    "https://www.meti.go.jp/press/2026/09/20260914001.html"
+    "https://www.jdla.org/news/20260911001/",
+    "https://guga.or.jp/outline/",
+    "https://aws.amazon.com/jp/blogs/news/introducing-aws-certified-ai-business-strategist-built-for-the-people-who-scale-ai/",
+    "https://aihackathon.jp/",
+    "https://aibuilderstokyo.connpass.com/event/406048/",
+    "https://innovatopia.jp/ai/ai-news/109345/"
   ],
   "previous_titles": [
-    "Microsoft、Azure開発者資格「AZ-204」を廃止、後継「AI-200」はAIネイティブ開発へ刷新",
-    "Microsoft、セキュリティ資格「AZ-500」を廃止、後継「SC-500」にAIワークロード保護を追加",
-    "IPA、応用情報技術者試験・高度試験を2027年度から新区分へ再編",
-    "サーティファイ「AI検定」第12回、11/8実施で申込受付中",
-    "AWS、認定資格ポートフォリオを更新、新試験は10/27登録開始予定",
-    "日本AIスキル認定協会、無料学習サービス「ASKラーニング」を正式ローンチ",
-    "「第20回AI勉強会『スナックAI』」、9/29に大阪で開催",
-    "「フィジカルAI Summit」開催、経産省AI産業戦略課長が登壇",
-    "経産省、AI開発・提供・利用現場の課題事例を募集"
+    "「2026年 第6回 G検定」受験申込開始",
+    "生成AIパスポート 10月試験、申込締切は9/30",
+    "AWS、ビジネス職向け新資格「AI Business Strategist」発表",
+    "「AI HACK 2026」、東京で9/19〜23開催",
+    "【当日視聴見学枠】AIハッカソン（AI Builders Tokyo）",
+    "デジタル庁、生成AIガイドライン第2.0版が施行"
   ]
 }
