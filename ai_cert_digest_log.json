@@ -1,19 +1,19 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "previous_urls": [
-    "https://www.jdla.org/news/20260911001/",
-    "https://guga.or.jp/outline/",
-    "https://aws.amazon.com/jp/blogs/news/introducing-aws-certified-ai-business-strategist-built-for-the-people-who-scale-ai/",
-    "https://aihackathon.jp/",
-    "https://aibuilderstokyo.connpass.com/event/406048/",
-    "https://innovatopia.jp/ai/ai-news/109345/"
+    "https://www.ipa.go.jp/shiken/minaoshi/index.html",
+    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
+    "https://cloudonair.withgoogle.com/events/gail-jp-202609",
+    "https://newscast.jp/news/1325455",
+    "https://skillupai.connpass.com/event/405533/",
+    "https://innovatopia.jp/ai/ai-news/115265/"
   ],
   "previous_titles": [
-    "「2026年 第6回 G検定」受験申込開始",
-    "生成AIパスポート 10月試験、申込締切は9/30",
-    "AWS、ビジネス職向け新資格「AI Business Strategist」発表",
-    "「AI HACK 2026」、東京で9/19〜23開催",
-    "【当日視聴見学枠】AIハッカソン（AI Builders Tokyo）",
-    "デジタル庁、生成AIガイドライン第2.0版が施行"
+    "IPA、情報処理技術者試験を大規模再編（応用情報・高度試験は2026年度で終了）",
+    "AWS、機械学習エンジニア認定をMLA-C02へ更新（現行版は9/28で英語受験終了）",
+    "Google Cloud、Generative AI Leader認定を目指す無料1日トレーニングを9月開催",
+    "日本AIスキル認定協会、無料AI学習サービス「ASKラーニング」を正式ローンチ",
+    "skillupAI、事業・業務課題に挑む「AIハッカソン2026」を10/12開催",
+    "経産省、AI政策とロボット政策を一元化する「AI産業戦略課」を発足"
   ]
 }
