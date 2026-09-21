@@ -1,27 +1,21 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "previous_urls": [
-    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
-    "https://aws.amazon.com/jp/blogs/news/introducing-aws-certified-ai-business-strategist-built-for-the-people-who-scale-ai/",
-    "https://www.jdla.org/news/20260911001/",
-    "https://guga.or.jp/2025-10-01/1100-0",
-    "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/060300552/060300001/",
-    "https://matsuo-institute.com/seminar/ai-project-procurement-2/",
-    "https://aihackathon.jp/",
-    "https://aibuilderstokyo.connpass.com/event/406048/",
-    "https://www.ai-jitan-hub.com/news/japan-ai-principle-code",
-    "https://news.lflc.jp/articles/be7f6a9448269a5e"
+    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
+    "https://guga.or.jp/generativeaiexam/",
+    "https://trends.codecamp.jp/blogs/media/news-prt-82530-550",
+    "https://www.datacurrent.co.jp/column/datacurrentacademy_20260915/",
+    "https://www.kokuchpro.com/event/bf0010f29135d58058b1b160097c5316/3877455",
+    "https://cyberagent.connpass.com/event/330223/",
+    "https://mirasapo-plus.go.jp/infomation/32009/"
   ],
   "previous_titles": [
-    "Microsoft、Azure認定資格を大改定（AZ-204→AI-200、AZ-500→SC-500など後継資格へ移行）",
-    "AWS、新資格「AWS Certified AI Business Strategist」のベータ試験を9/29開始",
-    "JDLA、G検定2026年第6回（11/6・7開催）の受験申込を9/11より受付開始",
-    "生成AIパスポート、2026年10月試験の申込を受付中（〆切9/30）",
-    "IPA、応用情報・高度試験の最終受験機会を発表（2026年10-11月・2027年2-3月）",
-    "松尾研究所、非エンジニア向け「AI発注力講座2026 Autumn」開講（一般申込締切9/24）",
-    "AI HACK 2026、賞金最大100万円のAIハッカソンを東京で9/19-23開催",
-    "AIビルダーズ東京、AIハッカソン当日視聴見学枠を9/23開催",
-    "内閣府、生成AIの知財「プリンシプル・コード」を確定（今秋届出開始へ）",
-    "デジタル庁、2026年9月1日付幹部体制を公表（AI・デジタル改革推進会議へ機能移管）"
+    "AWS認定資格、2026年9月に3試験をアップデート（MLA-C02ベータ開始、SAP-C03・DVA-C03は10/27登録開始）",
+    "生成AIパスポート「2026年10月試験」申込受付中（締切9/30）",
+    "JMAM、生成AI実務活用のeラーニング新4コースを2026年9月開講",
+    "DataCurrent Academy、生成AI関連19講座を2026年9月に追加",
+    "AI組織体験セミナー「人を増やさず、AIに仕事を任せる新しい働き方」（9/24オンライン）",
+    "サイバーエージェントと紐解く、生成AI活用の最前線（9月開催・全6回）",
+    "中小企業庁「デジタル化・AI導入補助金2026」交付申請の受付開始"
   ]
 }
