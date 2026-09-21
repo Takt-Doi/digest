@@ -1,36 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://www.jabct.org/event/",
-      "title": "日本認知・行動療法学会 年次大会2026（ワークショップ9/25・学術大会9/26-27）",
-      "first_seen": "2026-08-20"
-    },
-    {
-      "url": "https://www.jpc-net.jp/seminar/detail/002391.html",
-      "title": "職場のメンタルケア・マネジメント基礎研修（第3回：2026年10月15-16日開催）",
-      "first_seen": "2026-08-20"
-    },
-    {
-      "url": "https://www.psrn.jp/topics/detail.php?id=36505",
-      "title": "労働安全衛生法及び作業環境測定法の一部を改正する法律、官報公布",
-      "first_seen": "2026-08-20"
-    },
-    {
-      "url": "https://www.sanyonews.jp/article/1973387",
-      "title": "「リワーク費用の企業負担制度なし」63.4% メンタルヘルス休職者の復職支援制度整備追いつかず",
-      "first_seen": "2026-08-20"
-    },
-    {
-      "url": "https://jinjibu.jp/article/detl/service/349/",
-      "title": "【2026年版】メンタルヘルス関連サービス、EAPの傾向と選び方",
-      "first_seen": "2026-08-20"
-    },
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOUA0143M0R00C26A6000000/",
-      "title": "多様化する不眠症治療 非薬物療法が保険適用、アプリも登場",
-      "first_seen": "2026-08-20"
-    },
-    {
       "url": "https://kokoro.mhlw.go.jp/mental_sympo/2026/",
       "title": "令和8年度 職場のメンタルヘルスシンポジウム「中小企業におけるメンタルヘルス対策」",
       "first_seen": "2026-08-27"
@@ -214,6 +184,41 @@
       "url": "https://www.rodo.co.jp/news/215854/",
       "title": "ストレスチェック 小規模の実施割合5割超に 東京労働局",
       "first_seen": "2026-09-19"
+    },
+    {
+      "url": "https://www.jabct.org/event/",
+      "title": "日本認知・行動療法学会 第52回大会2026（ワークショップ9/25・学術大会9/26-27）",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "url": "https://keel-ins.co.jp/kenkokeiei-sme-2027-changes/",
+      "title": "健康経営優良法人2027、メンタルヘルス関連要件を見直しへ",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "url": "https://records.johas.go.jp/article/543",
+      "title": "長時間労働の特性とその後の心理的・身体的反応に関する研究：JNIOSHコホート研究",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "url": "https://www.chukidan.jp/navi/column/hr/13016/",
+      "title": "ストレスチェック50人未満も義務化 中小企業が今すぐ始めるべき準備と実務対応",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "url": "https://www.mhlw.go.jp/stf/newpage_70761.html",
+      "title": "労働者数50人未満の小規模事業者の方｜厚生労働省",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "url": "https://diamond.jp/articles/-/393133",
+      "title": "不眠症の認知行動療法が「保険適用」、不眠症治療アプリが利用可能に",
+      "first_seen": "2026-09-21"
+    },
+    {
+      "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/report/202608/594205.html",
+      "title": "要チェック！睡眠医療を大きく変える5つの制度変更",
+      "first_seen": "2026-09-21"
     }
   ]
 }
