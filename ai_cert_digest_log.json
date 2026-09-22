@@ -1,21 +1,23 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "previous_urls": [
-    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
-    "https://guga.or.jp/generativeaiexam/",
-    "https://trends.codecamp.jp/blogs/media/news-prt-82530-550",
-    "https://www.datacurrent.co.jp/column/datacurrentacademy_20260915/",
-    "https://www.kokuchpro.com/event/bf0010f29135d58058b1b160097c5316/3877455",
-    "https://cyberagent.connpass.com/event/330223/",
-    "https://mirasapo-plus.go.jp/infomation/32009/"
+    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
+    "https://www.jdla.org/news/20260911001/",
+    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
+    "https://rpacommunity.connpass.com/event/406616/",
+    "https://www.kokuchpro.com/event/21f93467c15b5625a25c195f7a54d939",
+    "https://www.nikkei.com/article/DGXZQOUA141D70U6A710C2000000/",
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1"
   ],
   "previous_titles": [
-    "AWS認定資格、2026年9月に3試験をアップデート（MLA-C02ベータ開始、SAP-C03・DVA-C03は10/27登録開始）",
-    "生成AIパスポート「2026年10月試験」申込受付中（締切9/30）",
-    "JMAM、生成AI実務活用のeラーニング新4コースを2026年9月開講",
-    "DataCurrent Academy、生成AI関連19講座を2026年9月に追加",
-    "AI組織体験セミナー「人を増やさず、AIに仕事を任せる新しい働き方」（9/24オンライン）",
-    "サイバーエージェントと紐解く、生成AI活用の最前線（9月開催・全6回）",
-    "中小企業庁「デジタル化・AI導入補助金2026」交付申請の受付開始"
+    "AWS認定「MLA-C01」（英語版）最終受験日は9/28、後継MLA-C02へ移行",
+    "IPA、応用情報技術者試験・高度試験を2026年度で終了、2027年度に新試験体系へ再編",
+    "JDLA「G検定 2026年第6回」（11/6・7実施）受験申込開始",
+    "Microsoft Azure認定資格、生成AI軸の大規模再編が継続（AI-901/AI-103/AI-200/SC-500）",
+    "「AIガバナンス実務ガイド」解説イベント（9/25オンライン）",
+    "「生成AIで効率化したのに、なぜ企画は深まらないのか」オンラインセミナー（10/6）",
+    "「人工知能基本計画（第Ⅱ期）」閣議決定（7/14、日本AX）",
+    "経済産業省、AI・ロボット政策を一元化する「AI産業課」新設（8/5）"
   ]
 }
