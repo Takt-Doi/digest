@@ -1,23 +1,19 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "previous_urls": [
-    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
-    "https://www.ipa.go.jp/pressrelease/2025/press20260331.html",
-    "https://www.jdla.org/news/20260911001/",
-    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
-    "https://rpacommunity.connpass.com/event/406616/",
-    "https://www.kokuchpro.com/event/21f93467c15b5625a25c195f7a54d939",
-    "https://www.nikkei.com/article/DGXZQOUA141D70U6A710C2000000/",
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1"
+    "https://www.ipa.go.jp/shiken/2026/cbt-202605-jisshi.html",
+    "https://prtimes.jp/main/html/rd/p/000000106.000121559.html",
+    "https://jdla.connpass.com/event/406160/",
+    "https://dxdojo.connpass.com/event/407449/",
+    "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
+    "https://hojyokin-portal.jp/columns/keisansho-gaisanyokyu"
   ],
   "previous_titles": [
-    "AWS認定「MLA-C01」（英語版）最終受験日は9/28、後継MLA-C02へ移行",
-    "IPA、応用情報技術者試験・高度試験を2026年度で終了、2027年度に新試験体系へ再編",
-    "JDLA「G検定 2026年第6回」（11/6・7実施）受験申込開始",
-    "Microsoft Azure認定資格、生成AI軸の大規模再編が継続（AI-901/AI-103/AI-200/SC-500）",
-    "「AIガバナンス実務ガイド」解説イベント（9/25オンライン）",
-    "「生成AIで効率化したのに、なぜ企画は深まらないのか」オンラインセミナー（10/6）",
-    "「人工知能基本計画（第Ⅱ期）」閣議決定（7/14、日本AX）",
-    "経済産業省、AI・ロボット政策を一元化する「AI産業課」新設（8/5）"
+    "ITパスポート等3試験(CBT)、9/28より新規申込の選択可能試験日が「12/27まで」に制限",
+    "生成AIパスポート、2026年8月試験の結果を発表（受験者32,877名で過去最多、合格率81.21%）",
+    "【CDLEサイバーセキュリティ】AI×Security勉強会#14（9/30・赤坂トラストタワー）",
+    "【水曜のDX道場】ひとくちCopilot Studio 動画作成の舞台裏（9/30）",
+    "デジタル庁、新デジタル大臣に古川俊治氏が就任（9/17、AI戦略等担当）",
+    "経済産業省、令和9年度AI関連予算の概算要求を公表（総額7兆7,859億円）"
   ]
 }
