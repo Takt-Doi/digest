@@ -1,19 +1,27 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "previous_urls": [
-    "https://www.ipa.go.jp/shiken/2026/cbt-202605-jisshi.html",
-    "https://prtimes.jp/main/html/rd/p/000000106.000121559.html",
-    "https://jdla.connpass.com/event/406160/",
-    "https://dxdojo.connpass.com/event/407449/",
-    "https://www.itmedia.co.jp/news/article/2609/17/2000001594/",
-    "https://hojyokin-portal.jp/columns/keisansho-gaisanyokyu"
+    "https://aws.amazon.com/jp/blogs/news/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+    "https://www.pearsonvue.com/us/en/aws/aif2cloud.html",
+    "https://guga.or.jp/outline/",
+    "https://www.jdla.org/news/20260911001/",
+    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
+    "https://www.ipa.go.jp/shiken/syllabus/henkou/2025/20260331.html",
+    "https://creator-square.connpass.com/event/406047/",
+    "https://jstqb.connpass.com/event/404535/",
+    "https://www.sbbit.jp/article/cont1/186276",
+    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1"
   ],
   "previous_titles": [
-    "ITパスポート等3試験(CBT)、9/28より新規申込の選択可能試験日が「12/27まで」に制限",
-    "生成AIパスポート、2026年8月試験の結果を発表（受験者32,877名で過去最多、合格率81.21%）",
-    "【CDLEサイバーセキュリティ】AI×Security勉強会#14（9/30・赤坂トラストタワー）",
-    "【水曜のDX道場】ひとくちCopilot Studio 動画作成の舞台裏（9/30）",
-    "デジタル庁、新デジタル大臣に古川俊治氏が就任（9/17、AI戦略等担当）",
-    "経済産業省、令和9年度AI関連予算の概算要求を公表（総額7兆7,859億円）"
+    "AWS認定Machine Learning Engineer Associate（MLA-C01）英語受験、9/28で終了",
+    "AWS認定AI Practitioner（AIF-C01）受験料50%オフキャンペーン、9/30締切",
+    "生成AIパスポート、2026年10月試験の申込締切は9/30 23:59",
+    "G検定「2026年 第6回」受験申込開始（オンラインのみ、11/6-7実施）",
+    "Microsoft Azure AI資格が大規模改定、AI-900/AI-102/AZ-204などが順次退役",
+    "IPA、情報処理技術者試験を2027年度に再編へ　応用情報技術者試験は2027年3月が最終回",
+    "秋のAI駆動開発勉強会（Claude Code / Codexの最前線）（10/11開催）",
+    "JSTQBカンファレンス in 2026 Autumn インフォメーションセッション（10/16）",
+    "デジタル庁、行政向け生成AIガイドライン第2.0版が9/1に全面施行",
+    "経済産業省、AIとロボット政策を一元化する新組織「AI産業戦略課」を設置（8/5付）"
   ]
 }
