@@ -1,27 +1,21 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "previous_urls": [
-    "https://aws.amazon.com/jp/blogs/news/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
-    "https://www.pearsonvue.com/us/en/aws/aif2cloud.html",
-    "https://guga.or.jp/outline/",
-    "https://www.jdla.org/news/20260911001/",
-    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
-    "https://www.ipa.go.jp/shiken/syllabus/henkou/2025/20260331.html",
-    "https://creator-square.connpass.com/event/406047/",
-    "https://jstqb.connpass.com/event/404535/",
-    "https://www.sbbit.jp/article/cont1/186276",
-    "https://www.projectdesign.jp/articles/news/cf53764e-dda0-4b83-a0f8-5edd590b86b1"
+    "https://cloud.google.com/learn/certification/agentic-architect",
+    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
+    "https://www.jdla.org/news/20260924001/",
+    "https://skillupai.connpass.com/event/405533/",
+    "https://matsuo-institute.com/seminar/ai-project-procurement-2/",
+    "https://mirasapo-plus.go.jp/infomation/32009/",
+    "https://www.mhlw.go.jp/content/10200000/001646476.pdf"
   ],
   "previous_titles": [
-    "AWS認定Machine Learning Engineer Associate（MLA-C01）英語受験、9/28で終了",
-    "AWS認定AI Practitioner（AIF-C01）受験料50%オフキャンペーン、9/30締切",
-    "生成AIパスポート、2026年10月試験の申込締切は9/30 23:59",
-    "G検定「2026年 第6回」受験申込開始（オンラインのみ、11/6-7実施）",
-    "Microsoft Azure AI資格が大規模改定、AI-900/AI-102/AZ-204などが順次退役",
-    "IPA、情報処理技術者試験を2027年度に再編へ　応用情報技術者試験は2027年3月が最終回",
-    "秋のAI駆動開発勉強会（Claude Code / Codexの最前線）（10/11開催）",
-    "JSTQBカンファレンス in 2026 Autumn インフォメーションセッション（10/16）",
-    "デジタル庁、行政向け生成AIガイドライン第2.0版が9/1に全面施行",
-    "経済産業省、AIとロボット政策を一元化する新組織「AI産業戦略課」を設置（8/5付）"
+    "Google Cloud新資格「Professional Agentic Architect」、ベータ試験の受験受付は9/30まで",
+    "AWS認定「SAP-C03」「DVA-C03」、2026年10月27日から新試験受付開始",
+    "G検定「2026年 第5回」結果発表、合格率76.97%（14,908名受験・11,475名合格）",
+    "AIハッカソン2026、10/12開催（スキルアップAI主催）",
+    "AI発注力講座 2026 Autumn（松尾研究所）",
+    "デジタル化・AI導入補助金2026、中小企業省力化投資補助金 第8回公募スタート",
+    "人材開発支援助成金「事業展開等リスキリング支援コース」、2026年8月3日付で運用改正"
   ]
 }
