@@ -1,21 +1,27 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "previous_urls": [
-    "https://cloud.google.com/learn/certification/agentic-architect",
-    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
-    "https://www.jdla.org/news/20260924001/",
-    "https://skillupai.connpass.com/event/405533/",
-    "https://matsuo-institute.com/seminar/ai-project-procurement-2/",
-    "https://mirasapo-plus.go.jp/infomation/32009/",
-    "https://www.mhlw.go.jp/content/10200000/001646476.pdf"
+    "https://sal-blog.com/mla-c01-vs-c02/",
+    "https://aimanabis.com/blog/generative-ai-passport-syllabus-update/",
+    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
+    "https://guga.or.jp/2026-09-18-1100",
+    "https://note.com/fit_fish2431/n/ncac7dea7cf4b",
+    "https://cloud.google.com/learn/certification/generative-ai-leader",
+    "https://aismiley.co.jp/ai_hakurankai/fukuoka-2026/",
+    "https://weblab.t.u-tokyo.ac.jp/news/2026-08-14/",
+    "https://www.meti.go.jp/press/2026/07/20260731003.html",
+    "https://uravation.com/media/japan-ai-basic-plan-meti-reorganization-2026/"
   ],
   "previous_titles": [
-    "Google Cloud新資格「Professional Agentic Architect」、ベータ試験の受験受付は9/30まで",
-    "AWS認定「SAP-C03」「DVA-C03」、2026年10月27日から新試験受付開始",
-    "G検定「2026年 第5回」結果発表、合格率76.97%（14,908名受験・11,475名合格）",
-    "AIハッカソン2026、10/12開催（スキルアップAI主催）",
-    "AI発注力講座 2026 Autumn（松尾研究所）",
-    "デジタル化・AI導入補助金2026、中小企業省力化投資補助金 第8回公募スタート",
-    "人材開発支援助成金「事業展開等リスキリング支援コース」、2026年8月3日付で運用改正"
+    "AWS認定「MLA-C01」英語版、9/28が最終受験日（後継MLA-C02はベータ中）",
+    "生成AIパスポート、10月試験の申込締切は9/30",
+    "Microsoft Azure認定資格、2026年に大規模再編・後継資格まとめ",
+    "生成AIパスポート、2026年8月試験の結果発表（受験者32,877名で過去最多）",
+    "AWS認定「MLA-C02」ベータ試験開始、生成AI・エージェント対応へ刷新",
+    "Google Cloud「Generative AI Leader」、9月に無料学習プログラムを実施",
+    "「AI博覧会 Fukuoka 2026」、9/30・10/1に福岡で初開催",
+    "東大松尾・岩澤研究室、非IT人材向け「AXエバンジェリスト講座」を開講",
+    "経産省、AIとロボット政策を一元化する新組織「AI産業戦略課」を設置",
+    "「AI基本計画（第Ⅱ期）」閣議決定、経産省が実行体制を強化"
   ]
 }
