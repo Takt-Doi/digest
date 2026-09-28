@@ -1,19 +1,29 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "previous_urls": [
-    "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_kikan.html",
-    "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
-    "https://www.ipa.go.jp/jinzai/ics/short-pgm/ai-security/2026.html",
-    "https://www.meti.go.jp/shingikai/mono_info_service/digital_gv_ai/003.html",
-    "https://aikeizai.jp/article/policy/digital-agency-executive-list-2026-ai-government-procurement/",
-    "https://mirasapo-plus.go.jp/infomation/32009/"
+    "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
+    "https://aimanabis.com/blog/generative-ai-passport-syllabus-update/",
+    "https://www.pearsonvue.com/us/en/aws/aif2cloud.html",
+    "https://guga.or.jp/2026-09-18-1100",
+    "https://www.jdla.org/news/20260924001/",
+    "https://www.jdla.org/news/20260911001/",
+    "https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/",
+    "https://zenn.dev/hackathons/google-cloud-japan-ai-hackathon-vol5",
+    "https://www.aifestival.jp/hackathon",
+    "https://www.meti.go.jp/press/2026/09/20260914001.html",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/f4f6b57f-7779-4950-bbb5-07a265cb1d8f/cccebd58/20260831_policies_budget_outline_02.pdf"
   ],
   "previous_titles": [
-    "情報処理技術者試験、2027年度に大改定へ ― データ・AI領域の新試験も新設",
-    "AWS認定、SAP-C03・DVA-C03が10月27日より新規登録開始",
-    "IPA、重要インフラ企業向け「AIセキュリティトレーニング」を10月26・27日に開催",
-    "経産省「AI時代におけるデジタルガバナンス検討会」第3回を開催",
-    "デジタル庁、幹部体制を刷新・公開 ― AI・DX推進の「発注官庁」化を強化",
-    "「デジタル化・AI導入補助金2026」交付申請の受付を開始"
+    "AWS「MLA-C01」英語受験、本日9/28が最終日（後継MLA-C02へ移行）",
+    "生成AIパスポート2026年10月試験、申込締切は9/30(水)23:59",
+    "AWS認定「AIプラクティショナー」(AIF-C01) 50%オフキャンペーン、9/30締切",
+    "生成AIパスポート8月試験、受験者数32,877名で過去最多を更新",
+    "G検定2026年第5回、14,908名が受験し11,475名が合格",
+    "G検定2026年第6回、受験申込を開始",
+    "Microsoft、「AI-200: Azure AI Cloud Developer Associate」を新設",
+    "第5回 Agentic AI Hackathon with Google Cloud、10/5オンライン開催",
+    "「全日本AIハッカソン2026」、11月にベルサール渋谷ファーストで決勝開催",
+    "経産省、AI活用現場の契約・実務上の課題事例を9/14から募集",
+    "デジタル庁、令和9年度予算概算要求でガバメントAI「源内」の本格運用移行を明記"
   ]
 }
