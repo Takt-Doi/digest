@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "previous_urls": [
     "https://aws.amazon.com/blogs/training-and-certification/updates-to-aws-certified-machine-learning-engineer-associate-mla-c02/",
     "https://aimanabis.com/blog/generative-ai-passport-syllabus-update/",
@@ -11,7 +11,11 @@
     "https://zenn.dev/hackathons/google-cloud-japan-ai-hackathon-vol5",
     "https://www.aifestival.jp/hackathon",
     "https://www.meti.go.jp/press/2026/09/20260914001.html",
-    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/f4f6b57f-7779-4950-bbb5-07a265cb1d8f/cccebd58/20260831_policies_budget_outline_02.pdf"
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/f4f6b57f-7779-4950-bbb5-07a265cb1d8f/cccebd58/20260831_policies_budget_outline_02.pdf",
+    "https://readroo.st/blog/2026-09-06-microsoft-retirement-wave-september-2026-refresh",
+    "https://www.whizlabs.com/blog/microsofts-next-generation-ai-certifications/",
+    "https://odhackathon.metro.tokyo.lg.jp/",
+    "https://uravation.com/media/japan-ai-basic-plan-meti-reorganization-2026/"
   ],
   "previous_titles": [
     "AWS「MLA-C01」英語受験、本日9/28が最終日（後継MLA-C02へ移行）",
@@ -24,6 +28,10 @@
     "第5回 Agentic AI Hackathon with Google Cloud、10/5オンライン開催",
     "「全日本AIハッカソン2026」、11月にベルサール渋谷ファーストで決勝開催",
     "経産省、AI活用現場の契約・実務上の課題事例を9/14から募集",
-    "デジタル庁、令和9年度予算概算要求でガバメントAI「源内」の本格運用移行を明記"
+    "デジタル庁、令和9年度予算概算要求でガバメントAI「源内」の本格運用移行を明記",
+    "Microsoft AZ-800/AZ-801 9/30廃止、後継AZ-802",
+    "Microsoft、AI関連認定を大幅刷新（2026年）",
+    "都知事杯オープンデータ・ハッカソン2026",
+    "経産省「AI産業戦略課」を新設、AI基本計画の実行体制へ"
   ]
 }
