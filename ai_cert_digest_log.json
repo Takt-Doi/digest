@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -24,7 +24,12 @@
     "https://readroo.st/blog/2026-09-06-microsoft-retirement-wave-september-2026-refresh",
     "https://www.whizlabs.com/blog/microsofts-next-generation-ai-certifications/",
     "https://odhackathon.metro.tokyo.lg.jp/",
-    "https://uravation.com/media/japan-ai-basic-plan-meti-reorganization-2026/"
+    "https://uravation.com/media/japan-ai-basic-plan-meti-reorganization-2026/",
+    "https://www.jdla.org/certificate/general/",
+    "https://aws.amazon.com/certification/certified-ai-practitioner/",
+    "https://medium.com/@certboosters_42895/google-cloud-just-retired-a-certification-its-doubling-down-on-security-instead-b5b7015e0d70",
+    "https://techplay.jp/event/tag/hackathon",
+    "https://aibuilderstokyo.connpass.com/event/407680/"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -50,6 +55,12 @@
     "Microsoft AZ-800/AZ-801 9/30廃止、後継AZ-802",
     "Microsoft、AI関連認定を大幅刷新（2026年）",
     "都知事杯オープンデータ・ハッカソン2026",
-    "経産省「AI産業戦略課」を新設、AI基本計画の実行体制へ"
+    "経産省「AI産業戦略課」を新設、AI基本計画の実行体制へ",
+    "G検定2026年第6回（11/6・7）、個人申込は10/29(木)23:59まで",
+    "AWS認定AIプラクティショナー、イタリア語・ドイツ語での受験は10/15で終了",
+    "Google Cloud「Professional Agentic Architect」ベータ受付が9/3に開始",
+    "第13回 石巻ハッカソン2026（10/10〜12）",
+    "JPHACKS 2026（10/17〜25）",
+    "AIHACK 後夜祭（10/20 19:30〜）"
   ]
 }
