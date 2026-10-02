@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -29,7 +29,13 @@
     "https://aws.amazon.com/certification/certified-ai-practitioner/",
     "https://medium.com/@certboosters_42895/google-cloud-just-retired-a-certification-its-doubling-down-on-security-instead-b5b7015e0d70",
     "https://techplay.jp/event/tag/hackathon",
-    "https://aibuilderstokyo.connpass.com/event/407680/"
+    "https://aibuilderstokyo.connpass.com/event/407680/",
+    "https://www.agaroot.jp/datascience/column/generative-ai-passport-test-date/",
+    "https://kogelog.com/20261001-01/",
+    "https://www.kiokuru.com/blog/ipa-shiken-2027/",
+    "https://skillstack.jp/blog/microsoft-certification-retirements-2026",
+    "https://www.craftstadium.com/en/hackathon",
+    "https://www8.cao.go.jp/cstp/ai/index.html"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -61,6 +67,13 @@
     "Google Cloud「Professional Agentic Architect」ベータ受付が9/3に開始",
     "第13回 石巻ハッカソン2026（10/10〜12）",
     "JPHACKS 2026（10/17〜25）",
-    "AIHACK 後夜祭（10/20 19:30〜）"
+    "AIHACK 後夜祭（10/20 19:30〜）",
+    "G検定 2026年第6回：申込は10/29(木)23:59まで",
+    "Microsoft認定資格 10月の改定予定",
+    "情報処理技術者試験 2027年度の再編：最後は2027年2〜3月の後期試験",
+    "Microsoft資格2026年大改定：廃止と後継のまとめ",
+    "第13回 石巻ハッカソン2026（10/10〜10/12）",
+    "JPHACKS（10/17〜10/25）",
+    "AI戦略本部・AI戦略（内閣府）"
   ]
 }
