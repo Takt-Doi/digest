@@ -1,16 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://ailesplus.com/news/?p=61599",
-      "title": "新入社員の不調はなぜ見えにくいのか｜職場で見逃したくないサインと対応のポイント",
-      "first_seen": "2026-09-03"
-    },
-    {
-      "url": "https://ailesplus.com/news/?p=61432",
-      "title": "【2026年10月施行】カスタマーハラスメント・求職者等セクハラ防止が義務化｜企業に求められる10の措置",
-      "first_seen": "2026-09-03"
-    },
-    {
       "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/information/press/2026/08/2026082503",
       "title": "「職場のメンタルヘルス対策推進キャンペーン」開始（9/1〜11/30）",
       "first_seen": "2026-09-05"
@@ -359,6 +349,11 @@
       "url": "https://webview.isho.jp/journal/detail/abs/10.69291/cp26020137",
       "title": "特集 みんなのCBT――社会実装の未来とニュー・フロンティア",
       "first_seen": "2026-10-03"
+    },
+    {
+      "url": "https://mhlw-cbt-training.ncnp.go.jp/training/cp26-1-4.html",
+      "title": "令和8年度 認知行動療法ワークショップ（厚生労働省 認知行動療法研修事業）",
+      "first_seen": "2026-10-05"
     }
   ]
 }
