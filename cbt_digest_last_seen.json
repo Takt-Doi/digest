@@ -1,16 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://cocosapo.mhlw.go.jp/training/",
-      "title": "心のサポーター養成研修について（厚生労働省 ここサポ養成事業）",
-      "first_seen": "2026-09-12"
-    },
-    {
-      "url": "https://www.armg.jp/journal/220-2/",
-      "title": "EAP（従業員支援プログラム）とは？EAPサービスの導入メリットやメンタルヘルス対策での効果を解説",
-      "first_seen": "2026-09-14"
-    },
-    {
       "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html",
       "title": "世界メンタルヘルスデーJAPAN2026特設サイトを開設（厚生労働省）",
       "first_seen": "2026-09-17"
@@ -259,6 +249,11 @@
       "url": "https://j-net21.smrj.go.jp/snavi2/articles/176058",
       "title": "No.81 組織で取り組むメンタルヘルス対応講座【10月・午前】",
       "first_seen": "2026-10-08"
+    },
+    {
+      "url": "https://j-net21.smrj.go.jp/snavi2/articles/192168",
+      "title": "職場のメンタルヘルス対策セミナー（西三河会場・2026年11月16日開催）",
+      "first_seen": "2026-10-15"
     }
   ]
 }
