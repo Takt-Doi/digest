@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -64,7 +64,12 @@
     "https://learn.microsoft.com/en-us/learn/certifications/retired-certifications",
     "https://www.gamebusiness.jp/article/2026/01/30/26107.html",
     "https://kumanichi.com/articles/2013811",
-    "https://tutorialsdojo.com/introducing-new-aws-certified-ai-business-strategist-aib-c01-certification/"
+    "https://tutorialsdojo.com/introducing-new-aws-certified-ai-business-strategist-aib-c01-certification/",
+    "https://uravation.com/media/genai-passport-syllabus-2027-kaitei/",
+    "https://www.salesforce.com/jp/blog/jp-salesforce-ai-credentials/",
+    "https://shift-ai.co.jp/blog/61333/",
+    "https://www.aifestival.jp/",
+    "https://www8.cao.go.jp/cstp/ai/"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -114,4 +119,30 @@
     "G検定2026#5 合格証書、10/13 10:00からダウンロード可能",
     "AI for Scienceの推進に向けた基本的な戦略方針（文科省）",
     "AI補助金・助成金の年間スケジュール【2026年8月版】",
-    "情報処理技術者試験 前期（高度・情報処理安全確保支援士）の申�
+    "情報処理技術者試験 前期（高度・情報処理安全確保支援士）の申込は10/6〜10/24",
+    "全日本AIハッカソン2026 決勝戦は11/7（土）東京・オフライン",
+    "G検定2026 第6回：11月6日(金)・7日(土)",
+    "E資格2026 第2回の日程・受験料",
+    "JDLA Deep Learning for ENGINEER 2026 #2（Pearson VUE）",
+    "生成AIパスポート 2026年の試験日程",
+    "Microsoft AI資格の移行（AI-901/AI-103）",
+    "AWS・Google Cloudの入門AI資格",
+    "全日本AIハッカソン2026",
+    "AI基本計画の改定案を決定",
+    "首相、閣僚担務の再編検討：AI担当とデジタル相の兼任が有力",
+    "AIエージェント・ストラテジスト 第2回試験は10/1〜10/31の受験期間。第1回は1,137名受験・合格率39.8%",
+    "生成AIパスポート、団体受験の申込・支払方法の仕組みをリニューアル",
+    "AI検定 2026年度の試験日程",
+    "厚労省、令和9年度概算要求でAI・半導体人材の育成を強化",
+    "AI実装検定が資格取得支援の対象に",
+    "Microsoft 365 Administrator Expert(MS-102) 10/31退役",
+    "全日本AIハッカソン2026（3月〜11月開催）",
+    "政府、AI基本計画を改定（官民投資）",
+    "AWS「AI Business Strategist(AIB-C01)」新設、ベータ試験は9/29開始",
+    "生成AIパスポート：新シラバスは2027年2月試験から適用",
+    "Salesforce認定AIアソシエイトの廃止",
+    "AI資格の種類・難易度の比較（2026年版）",
+    "AIフェスティバル 2026",
+    "人工知能基本計画（第Ⅱ期）の閣議決定と最新動向"
+  ]
+}
