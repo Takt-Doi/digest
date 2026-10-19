@@ -1,26 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html",
-      "title": "世界メンタルヘルスデーJAPAN2026特設サイトを開設（厚生労働省）",
-      "first_seen": "2026-09-17"
-    },
-    {
-      "url": "https://medical-clea.co.jp/column/post-118/",
-      "title": "不眠症に対する認知行動療法（CBT-I）が保険適用へ",
-      "first_seen": "2026-09-17"
-    },
-    {
-      "url": "https://www.counselor.or.jp/portals/0/kokoro-advisor/",
-      "title": "心の健康アドバイザー認定講座（2026年11月度）",
-      "first_seen": "2026-09-17"
-    },
-    {
-      "url": "https://www.jisha.or.jp/kanto/seminar/c3740_mh_seminar01.html",
-      "title": "「職場のメンタルヘルス」基礎研修会（2026年11月9日開催・関東安全衛生サービスセンター）",
-      "first_seen": "2026-09-17"
-    },
-    {
       "url": "https://www.rodo.co.jp/news/215854/",
       "title": "ストレスチェック 小規模の実施割合5割超に 東京労働局",
       "first_seen": "2026-09-19"
@@ -259,6 +239,11 @@
       "url": "https://coki.jp/article/news/49608/",
       "title": "ストレスチェック50人未満義務化 中小企業の対応（coki）",
       "first_seen": "2026-10-17"
+    },
+    {
+      "url": "https://psych.or.jp/wp-content/uploads/2026/07/20260713-1.pdf",
+      "title": "公認心理師連絡協議会：診療報酬拡大（認知行動療法に基づく心理支援）",
+      "first_seen": "2026-10-19"
     }
   ]
 }
