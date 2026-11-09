@@ -1,11 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://j-net21.smrj.go.jp/snavi2/articles/176058",
-      "title": "No.81 組織で取り組むメンタルヘルス対応講座【10月・午前】",
-      "first_seen": "2026-10-08"
-    },
-    {
       "url": "https://j-net21.smrj.go.jp/snavi2/articles/192168",
       "title": "職場のメンタルヘルス対策セミナー（西三河会場・2026年11月16日開催）",
       "first_seen": "2026-10-15"
@@ -54,6 +49,16 @@
       "url": "https://www.pref.aichi.jp/soshiki/owari/mental081209.html",
       "title": "職場のメンタルヘルス対策セミナー（尾張会場・2026年12月9日）",
       "first_seen": "2026-11-02"
+    },
+    {
+      "url": "https://www.rodo.co.jp/faq/205024/",
+      "title": "50人未満で対応どうする ストレスチェック義務に（労働新聞社）",
+      "first_seen": "2026-11-09"
+    },
+    {
+      "url": "https://dosai.jp/news/stress-check-gimuka-50nin-miman-2026/",
+      "title": "ストレスチェック義務化 50人未満事業場（労働災害ニュース）",
+      "first_seen": "2026-11-09"
     }
   ]
 }
