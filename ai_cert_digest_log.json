@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -125,7 +125,11 @@
     "https://cloud.google.com/learn/certification/agentic-architect?hl=ja",
     "https://www.ai-orchestra.ai/news/2026-11-05-ai-crew-hackathon",
     "https://www.kantei.go.jp/jp/pages/20261022choukan_aidigital.html",
-    "https://www.digital.go.jp/councils/ai_digital"
+    "https://www.digital.go.jp/councils/ai_digital",
+    "https://j-net21.smrj.go.jp/snavi2/articles/194504",
+    "https://j-net21.smrj.go.jp/snavi2/articles/194053",
+    "https://examinotion.com/blog/ms-102-retirement-ab-650",
+    "https://www.mhlw.go.jp/content/11801000/001755099.pdf"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -261,6 +265,10 @@
     "Google Cloud「Professional Agentic Architect」、一般提供版の登録が11/2開始",
     "AI Crew 大忘年会ハッカソン（12/19・ベルサール飯田橋駅前）",
     "AI・デジタル改革推進会議が初会合、年内に「AI・デジタル改革原則」へ",
-    "AI・デジタル改革推進会議の会議資料・議事録"
+    "AI・デジタル改革推進会議の会議資料・議事録",
+    "小規模事業者向け 生成AI入門セミナー（11/18、申込11/10まで）",
+    "Microsoft MS-102退役日に情報の食い違い（10/31 vs 11/30）",
+    "生成AIのこれからの使い所（J-Net21）",
+    "文科省「GRIT」戦略分野の人材育成を一気通貫で支援"
   ]
 }
