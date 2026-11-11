@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -129,7 +129,9 @@
     "https://j-net21.smrj.go.jp/snavi2/articles/194504",
     "https://j-net21.smrj.go.jp/snavi2/articles/194053",
     "https://examinotion.com/blog/ms-102-retirement-ab-650",
-    "https://www.mhlw.go.jp/content/11801000/001755099.pdf"
+    "https://www.mhlw.go.jp/content/11801000/001755099.pdf",
+    "https://www.cas.go.jp/jp/seisaku/jinko_senryaku/contents/20261028/09_doc09.pdf",
+    "https://harch.jp/ai/news/aicx-physical-ai-strategist-2026-11"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -269,6 +271,8 @@
     "小規模事業者向け 生成AI入門セミナー（11/18、申込11/10まで）",
     "Microsoft MS-102退役日に情報の食い違い（10/31 vs 11/30）",
     "生成AIのこれからの使い所（J-Net21）",
-    "文科省「GRIT」戦略分野の人材育成を一気通貫で支援"
+    "文科省「GRIT」戦略分野の人材育成を一気通貫で支援",
+    "AI戦略本部 人工知能戦略専門調査会関連資料（10/28付）",
+    "AICX協会「フィジカルAI・ストラテジスト」新設に関する解説（Harch AI Lab）"
   ]
 }
