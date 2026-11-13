@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -142,7 +142,18 @@
     "https://www.mhlw.go.jp/content/11801000/001765482.pdf",
     "https://www.ipa.go.jp/digital/ai/expert-group-on-aigfb.html",
     "https://news.mynavi.jp/techplus/article/20261111-5294821",
-    "https://www.keidanren.or.jp/journal/times/2026/1105_10.html"
+    "https://www.keidanren.or.jp/journal/times/2026/1105_10.html",
+    "https://skillstack.jp/blog/g-kentei-2027-exam-schedule",
+    "https://dev.to/ondrejka/aws-sap-c02-to-sap-c03-whats-changing-and-which-exam-to-take-1c7a",
+    "https://learn.microsoft.com/en-us/credentials/support/credential-retirement",
+    "https://ai-shikaku-navi.com/post/e-shikaku-shiken-nittei-moshikomi/",
+    "https://exampark.app/aws-exam-changes/",
+    "https://www.zaikei.co.jp/releases/3712604/",
+    "https://www.lrm.jp/info/seminar/se_ai_usage_governance/",
+    "https://learn.microsoft.com/en-us/training/topics/ignite/skilling-resource",
+    "https://www.nttdata.com/jp/ja/trends/event/2026/112502/",
+    "https://news.mynavi.jp/techplus/article/20261110-5292935/",
+    "https://prtimes.jp/main/html/rd/p/000000015.000169819.html"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -295,6 +306,17 @@
     "経産省「産業人材育成について」（2026年11月・厚労省サイト掲載資料）",
     "AI事業者ガイドライン検討会：「AIによるリスク」検討WGの資料を公開",
     "18万人に展開する生成AI基盤、開発チームは4〜5人 ― デジタル庁「源内」の舞台裏",
-    "経団連タイムス「わが国のAI政策」（11/5号）"
+    "経団連タイムス「わが国のAI政策」（11/5号）",
+    "G検定 2027年第1回、本日11/13(金)13:00に申込受付スタート",
+    "AWS認定 SAP-C02、11/16(月)が最終受験日（11/17からSAP-C03）",
+    "Microsoft公式の退役ページ、MS-102（Microsoft 365 Administrator Expert）の退役日は11/30と記載",
+    "E資格 2027年第1回は2/19〜21、申込開始は12/1の見込み",
+    "AWS認定 DVA-C02の最終受験日は11/30前後、ANS-C01は12/31で終了見込み",
+    "Reskilling Camp、AICX協会の公認研修パートナーに 「AIエージェント・ストラテジスト」対応研修を11/12提供開始",
+    "LRMセミナー「生成AI、社内で使いこなせていますか？」（11/16）",
+    "Microsoft Ignite 2026（11/17〜20）",
+    "NTTデータ先端技術 無料オンラインセミナー「生成AIの現状分析と今後の展望」（11/25）",
+    "政府、AIによる脆弱性チェックに20.4億円　サイバー攻撃対策を強化",
+    "改正後のリスキリング助成金で対象になるAI研修の組み方レポート【2026年11月版】"
   ]
 }
