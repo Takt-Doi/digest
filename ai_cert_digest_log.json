@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -153,7 +153,16 @@
     "https://learn.microsoft.com/en-us/training/topics/ignite/skilling-resource",
     "https://www.nttdata.com/jp/ja/trends/event/2026/112502/",
     "https://news.mynavi.jp/techplus/article/20261110-5292935/",
-    "https://prtimes.jp/main/html/rd/p/000000015.000169819.html"
+    "https://prtimes.jp/main/html/rd/p/000000015.000169819.html",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-agentic-devops-engineer-expert/4528356",
+    "https://www.sikaku.gr.jp/sys/post/849",
+    "https://guga.or.jp/2026-10-21-1100-2",
+    "https://www.ipa.go.jp/news/2026/shiken_20261105.html",
+    "https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html",
+    "https://cloud.watch.impress.co.jp/docs/news/2143812.html",
+    "https://guga.or.jp/2026-11-12-1100",
+    "https://www.kanaloco.jp/news/economy/article-1315521.html",
+    "https://www8.cao.go.jp/cstp/ai/ai_expert_wg/1kai/shiryo1.pdf"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -317,6 +326,15 @@
     "Microsoft Ignite 2026（11/17〜20）",
     "NTTデータ先端技術 無料オンラインセミナー「生成AIの現状分析と今後の展望」（11/25）",
     "政府、AIによる脆弱性チェックに20.4億円　サイバー攻撃対策を強化",
-    "改正後のリスキリング助成金で対象になるAI研修の組み方レポート【2026年11月版】"
+    "改正後のリスキリング助成金で対象になるAI研修の組み方レポート【2026年11月版】",
+    "Microsoft、新認定「Agentic DevOps Engineer Expert」（試験AZ-401）をベータ提供中",
+    "AI検定 第12回公開試験（11/8実施）、結果発表は11/25(水)予定",
+    "Gakken、GUGA監修「2027年版 生成AIパスポートをひとつひとつわかりやすく。教科書&問題集」を12/24出版予定",
+    "IPA、応用情報・高度試験・情報処理安全確保支援士試験の答案開示請求について案内（11/5）",
+    "IPA、「AI時代の要求管理ハンドブック」を公開（11/5）",
+    "バルテス、AI時代の品質保証・テストを学ぶ3講座を新設、11月から順次提供",
+    "GenAI HR Awards 2026、全4部門の受賞結果を発表（11/12）",
+    "政府、AI法の見直し議論を開始 悪質事業者への罰則が焦点、年末までに方針",
+    "内閣府「制度の在り方検討WG」第1回（10/28）資料"
   ]
 }
