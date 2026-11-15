@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -162,7 +162,18 @@
     "https://cloud.watch.impress.co.jp/docs/news/2143812.html",
     "https://guga.or.jp/2026-11-12-1100",
     "https://www.kanaloco.jp/news/economy/article-1315521.html",
-    "https://www8.cao.go.jp/cstp/ai/ai_expert_wg/1kai/shiryo1.pdf"
+    "https://www8.cao.go.jp/cstp/ai/ai_expert_wg/1kai/shiryo1.pdf",
+    "https://aws.amazon.com/certification/certified-solutions-architect-professional/",
+    "https://web-mining.doorkeeper.jp/events/200026",
+    "https://www.lec-jp.com/guga/",
+    "https://www.u-can.co.jp/course/data/in_html/1919/",
+    "https://aws.amazon.com/events/reinvent/faqs/",
+    "https://www.pro-seeds.com/course/ai-compliance/",
+    "https://biz.nuro.jp/seminar/20261117/",
+    "https://www.newprinet.co.jp/%E3%83%A2%E3%83%AA%E3%82%B5%E3%83%AF-%E7%94%9F%E6%88%90ai%E3%81%AE%E6%B3%95%E7%9A%84%E7%95%99%E6%84%8F%E7%82%B9%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC",
+    "https://prtimes.jp/main/html/rd/p/000005208.000003670.html",
+    "https://aihackathon.jp/",
+    "https://www.ipa.go.jp/pressrelease/2026/press20260402.html"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -335,6 +346,18 @@
     "バルテス、AI時代の品質保証・テストを学ぶ3講座を新設、11月から順次提供",
     "GenAI HR Awards 2026、全4部門の受賞結果を発表（11/12）",
     "政府、AI法の見直し議論を開始 悪質事業者への罰則が焦点、年末までに方針",
-    "内閣府「制度の在り方検討WG」第1回（10/28）資料"
+    "内閣府「制度の在り方検討WG」第1回（10/28）資料",
+    "AWS認定 Solutions Architect – Professional：SAP-C02は明日が最終受験日（再掲）",
+    "Microsoft AB-330（Supply Chain Management AI Consultant Associate）ベータ割引（再掲）",
+    "ウェブ解析士協会（WACA）、新認定「上級AIポリシー管理者」第1期講座を開講（11/15・11/29）",
+    "LEC、生成AIパスポート講座の販売を一時停止 新シラバス対応の新講座は12月末予定",
+    "ユーキャンも生成AIパスポート講座の申込受付を停止、再開は12月中旬頃",
+    "AWS re:Invent 2026（11/30〜12/4）現地参加者にAWS認定試験の50%割引バウチャー",
+    "プロシーズ、eラーニング「AIコンプライアンス講座」を提供開始",
+    "NURO Biz 定期ウェビナー「生成AI時代の到来！変化するネットワーク要件と今すぐ備えるべきインフラ戦略」（11/17）",
+    "モリサワ 無料セミナー「生成AIの法的留意点とモリサワ新書体紹介」（11/19）",
+    "クリーク・アンド・リバー社 無料セミナー「はじめての生成AI活用講座」（全2回、第1回11/24）",
+    "AI HACK 第3回（12/11〜13・アイデアソン形式）応募は12/9まで",
+    "IPA、「AIセキュリティ短信 2026年11月号」を公開（11/13）"
   ]
 }
