@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -173,7 +173,19 @@
     "https://www.newprinet.co.jp/%E3%83%A2%E3%83%AA%E3%82%B5%E3%83%AF-%E7%94%9F%E6%88%90ai%E3%81%AE%E6%B3%95%E7%9A%84%E7%95%99%E6%84%8F%E7%82%B9%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC",
     "https://prtimes.jp/main/html/rd/p/000005208.000003670.html",
     "https://aihackathon.jp/",
-    "https://www.ipa.go.jp/pressrelease/2026/press20260402.html"
+    "https://www.ipa.go.jp/pressrelease/2026/press20260402.html",
+    "https://tutorialsdojo.com/whats-new-with-the-aws-certified-solutions-architect-professional-sap-c03/",
+    "https://www.iotcert.org/info/fde-level1-exam-start-20261117/",
+    "https://www.sakura.ad.jp/ai-certification/news/certification-exam-results-2026-10/",
+    "https://www.datascientist.or.jp/news/n-dskentei/post-5049/",
+    "https://orion.connpass.com/event/411811/",
+    "https://sakura-tokyo.connpass.com/event/411443/",
+    "https://www.mt.co.kr/en/tech/2026/11/12/2026111209091539262",
+    "https://www8.cao.go.jp/cstp/ai/ai_expert_wg/seido_2kai/seido_2kai.html",
+    "https://novaist.jp/articles/japan-ai-safety-penalties/",
+    "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/014/shiryou/index.html",
+    "https://ledge.ai/articles/government_ai_gennai_domestic_llm_public_offering",
+    "https://prtimes.jp/main/html/rd/p/000000005.000139618.html"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -358,6 +370,18 @@
     "モリサワ 無料セミナー「生成AIの法的留意点とモリサワ新書体紹介」（11/19）",
     "クリーク・アンド・リバー社 無料セミナー「はじめての生成AI活用講座」（全2回、第1回11/24）",
     "AI HACK 第3回（12/11〜13・アイデアソン形式）応募は12/9まで",
-    "IPA、「AIセキュリティ短信 2026年11月号」を公開（11/13）"
+    "IPA、「AIセキュリティ短信 2026年11月号」を公開（11/13）",
+    "AWS認定 Solutions Architect – Professional：SAP-C02は本日11/16が最終受験日、SAP-C03は11/17提供開始",
+    "FDE検定レベル1、11/17(火)に本試験スタート 第2回(11/24)の申込締切も11/17 23:59",
+    "さくらのAI検定 2026年第2回は11/20(金)・21(土)実施、第1回試験の結果は10/9発表済み",
+    "DS検定★ 第14回の試験期間は11/22(日)まで、合格発表は2027年1月中旬予定",
+    "【LT勉強会】みんなで語るAI活用勉強会（11/19・渋谷 NeuroHub）",
+    "さくらインターネット「AIエージェント開発の最新動向とプライベートLLM活用」（11/25〜27・オンライン）",
+    "Microsoft Ignite 2026 が11/17開幕、基調講演は日本時間11/18(水)未明",
+    "内閣府「制度の在り方検討ワーキンググループ」第2回（11/11）の資料を掲載",
+    "政府、高性能AIの安全確保義務と罰則新設を検討 11/11の会議資料で制度案",
+    "消費者委員会「AI技術の利用と消費者問題に関する専門調査会」第14回（11/5）資料",
+    "デジタル庁、ガバメントAI「源内」向け国産LLMの2027年度公募を11月に実施予定",
+    "シニア・初心者向け超入門「ゆるくてスゴいAI講座」が11/13から全国の教室で開講"
   ]
 }
