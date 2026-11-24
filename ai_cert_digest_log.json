@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "previous_urls": [
     "https://guga.or.jp/outline/",
     "https://aws.amazon.com/jp/blogs/news/september-2026-new-offerings/",
@@ -218,7 +218,13 @@
     "https://www.ipa.go.jp/news/2026/shiken_20261030.html",
     "https://kahoku.connpass.com/event/405468/",
     "https://www.sbbit.jp/eventinfo/91102",
-    "https://www.nikkei.com/article/DGXZQOUA232G90T21C26A0000000/"
+    "https://www.nikkei.com/article/DGXZQOUA232G90T21C26A0000000/",
+    "https://aws.amazon.com/blogs/apn/know-before-you-go-an-aws-partners-guide-to-reinvent-2026/",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-github-certified-agentic-ai-business-professional/4564534",
+    "https://aid.connpass.com/event/409814/",
+    "https://ascii.jp/elem/000/004/448/4448255/",
+    "https://guga.or.jp/generativeaiexam/",
+    "https://ai-shikaku-navi.com/post/g-kentei-shiken-nittei-moshikomi/"
   ],
   "previous_titles": [
     "生成AIパスポート10月試験、申込は本日9/30 23:59まで",
@@ -463,6 +469,15 @@
     "IPA「プロフェッショナルデジタルスキル試験（仮称）」データ・AI領域のサンプル問題・シラバス案公開（10/30）",
     "GDG DevFest 2026 Yamagata（12/5・東根市）",
     "AX・DX SUMMIT 2026（12/8〜9・オンライン）",
-    "政府、サイバー攻撃踏まえAI開発の安全対策監視で法改正検討（日経）"
+    "政府、サイバー攻撃踏まえAI開発の安全対策監視で法改正検討（日経）",
+    "AWS re:Invent 2026（11/30〜12/4）現地参加者に認定試験50%割引バウチャー",
+    "GitHub Certified: Agentic AI Business Professional（GH-700）12月GA予定",
+    "第6回 AI駆動開発勉強会 沖縄支部（12/2・申込12/1まで）",
+    "改正後のリスキリング助成金で対象になるAI研修（2026年11月版）",
+    "生成AIパスポート 2027年2月試験 申込受付中（1/31締切・新シラバス）",
+    "G検定 2027年第1回 オンライン1/16・申込1/8まで",
+    "AIイノベーション検定 申込11/25まで（再掲）",
+    "AWS DVA-C02 最終受験日11/30（再掲）",
+    "E資格 2027年第1回 申込12/1開始見込み（再掲）"
   ]
 }
