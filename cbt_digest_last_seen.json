@@ -1,16 +1,6 @@
 {
   "seen": [
     {
-      "url": "https://www.chukidan.jp/navi/?p=13016",
-      "title": "ストレスチェック義務化、50人未満の事業場も対象へ（施行は2028年4月とする解説が多い）",
-      "first_seen": "2026-10-26"
-    },
-    {
-      "url": "https://boxil.jp/mag/a8116/",
-      "title": "メンタルヘルス対策の事例：相談窓口・個別面談と復職支援プログラム",
-      "first_seen": "2026-10-26"
-    },
-    {
       "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/2026-09-02-145816-499",
       "title": "令和8年度 精神保健福祉研修（後期）認知行動療法研修2（東京都）",
       "first_seen": "2026-10-29"
@@ -349,6 +339,56 @@
       "url": "https://www.mhlw.go.jp/content/11201250/001661211.pdf",
       "title": "小規模事業場ストレスチェック制度実施マニュアル（厚生労働省）",
       "first_seen": "2026-11-23"
+    },
+    {
+      "url": "https://www.fukushimas.johas.go.jp/seminar/occupational/",
+      "title": "管理職向けメンタルヘルス研修（WEB研修）",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://www.tochigis.johas.go.jp/programs/",
+      "title": "メンタルヘルス事例検討会（2027年1月8日）",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://www.yamanashis.johas.go.jp/seminar",
+      "title": "高次脳機能障害のある従業員の職場復帰（2027年1月15日）",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://osakas.johas.go.jp/seminar/",
+      "title": "メンタルヘルス不調者への対応が不安？（2027年1月21日）",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://sites.google.com/view/fsccp/%E5%A4%96%E9%83%A8%E5%9B%A3%E4%BD%93%E7%A0%94%E4%BF%AE%E4%BC%9A",
+      "title": "福島県臨床心理士会 外部団体研修会：認知行動療法カウンセリング（オンデマンド）ほか",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://positive-counselor.org/event/cbc_expert/",
+      "title": "新世代 認知行動療法と認知行動コーチング応用講座（エキスパートクラス）",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://mhlw-cbt-training.ncnp.go.jp/training/cp26-3.html",
+      "title": "【CP26-3】令和8年度 社交不安症に対する認知行動療法研修 [eラーニング]",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000241.000019504.html",
+      "title": "【医療機関の休復職実態調査】復職者がいる医療機関の94.5%で「1年以内の再休職・退職」が発生",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000029436.html",
+      "title": "20〜59歳の11.9%が心身の不調で休職を経験、約8人に1人という実態",
+      "first_seen": "2026-11-26"
+    },
+    {
+      "url": "https://kokoro.mhlw.go.jp/etc/small-sc",
+      "title": "こころの耳：小規模事業場向けストレスチェック支援ページ",
+      "first_seen": "2026-11-26"
     }
   ]
 }
